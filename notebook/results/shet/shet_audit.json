@@ -1,0 +1,90 @@
+{
+  "results": {
+    "n_dog": 86,
+    "n_human": 48,
+    "U_dog": 2268.0,
+    "p_two_sided": 0.34500712594159755,
+    "probability_dog_greater": 0.5494186046511628,
+    "median_shet_dog": 0.04154232678179192,
+    "median_shet_human": 0.011433276275843646,
+    "median_rank_dog": 64.5,
+    "median_rank_human": 78.5,
+    "method": "two-sided asymptotic Mann-Whitney U; tie and continuity correction",
+    "n_plotted": 134,
+    "missing_shet_genes": [
+      "COL6A5"
+    ]
+  },
+  "density_files": [
+    {
+      "file": "posterior_densities.1.txt.gz",
+      "posterior_columns": 3000,
+      "selected_columns": 25,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    },
+    {
+      "file": "posterior_densities.2.txt.gz",
+      "posterior_columns": 3000,
+      "selected_columns": 21,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    },
+    {
+      "file": "posterior_densities.3.txt.gz",
+      "posterior_columns": 3000,
+      "selected_columns": 22,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    },
+    {
+      "file": "posterior_densities.4.txt.gz",
+      "posterior_columns": 3000,
+      "selected_columns": 25,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    },
+    {
+      "file": "posterior_densities.5.txt.gz",
+      "posterior_columns": 3000,
+      "selected_columns": 23,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    },
+    {
+      "file": "posterior_densities.6.txt.gz",
+      "posterior_columns": 2998,
+      "selected_columns": 18,
+      "grid_points": 1024,
+      "grid_min": -7.0,
+      "grid_max": 0.0
+    }
+  ],
+  "density_integral_range": [
+    0.9941322444958337,
+    1.0005906074843414
+  ],
+  "environment": {
+    "python": "3.12.12",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1"
+  },
+  "sha256": {
+    "/Users/noah/dog_ocd/data/downloaded/supplementary/NATURE_SupplementaryTables.xlsx": "b2163f561cc64407972bc9fe75caddf3f4b758772eabdc342fc475f49478f972",
+    "/Users/noah/dog_ocd/notebook/results/per_gene_ocd.csv": "c965963a81339070f0b888d32926d6138acb131b10d2250304f58fe7733676b8",
+    "/Users/noah/data/constraint/shet/agarwal/elife-83172-supp2-v2.txt": "9b505d112a09f0ba90ea9d478182fe649234a56f2a70247b33dbbc51d4ed0157",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.1.txt.gz": "12569926d80514fdff80fdb506903d403e2fd743fc5aee3722f0630b957ba3ea",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.2.txt.gz": "819cf7584faf9110f201c058b0e85eb8825ad6f9f5a75ff7ac642fad3e37e303",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.3.txt.gz": "ea71d8d1e8c368f64f519d3112cfedaf24e4c4ec6276c8c4129db0357c9e1f9f",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.4.txt.gz": "90c4dcb388f44b77ce853edb46c5176eaa0563b5af61d9edd9d547aff7c5c9d7",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.5.txt.gz": "535d1c2d7ffd2b0049eb56112947acd5a9f4e63568309a1aac6bb121e8770c1a",
+    "/Users/noah/data/constraint/shet/agarwal/posterior_densities.6.txt.gz": "8010995b3911998ad13e80d93db4f8d9558b466f3dfa6be6efcd9cca3b5fa3f6"
+  }
+}

@@ -1,0 +1,18 @@
+Gene-level association ranks or cumulative-rank source data across human GWAS traits and inclusive ±1 Mb/±500 kb TSS windows. Covered genes are ranked genome-wide by minimum window p-value, strongest first, with average ranks for ties. The dog set uses 83 TOGA one-to-one human orthologs; the Human set uses all 48 ST6 Human genes.
+
+Rows: 229,704. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+width_each_side_bp: TSS window extension on each side, in base pairs.
+gene_id: GENCODE human Ensembl gene identifier.
+symbol: Human gene symbol.
+chrom: Autosomal chromosome.
+dog: True if the gene belongs to the 83-gene TOGA dog set.
+dog_significant: True if the gene belongs to the 43-gene significant dog subset.
+dog_suggestive: True if the gene belongs to the 40-gene suggestive dog subset.
+min_p: Minimum SNP p-value in the relevant window (±1 Mb if no window column).
+n_snps: Number of valid SNPs in the relevant window (±1 Mb if no window column).
+max_neg_log10_p: Negative log10 of the minimum SNP p-value in this trait/window.
+rank: Genome-wide rank of minimum window p-value; 1 is strongest, ties have average ranks.

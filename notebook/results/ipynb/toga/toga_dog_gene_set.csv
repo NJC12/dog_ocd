@@ -1,0 +1,84 @@
+Gene*,Species,TOGA (Human:Dog)**,dogCD sig_region_number (see Supplementary Table 5),dogCD sugg_region_number (see Supplementary Table 5),dogCD significance,dogCD phenotypes,suggestive dogCD phenotypes,GWAS catalog*** (psych disorder),GWAS catalog*** (temperament),GWAS catalog*** (other),TOGA,human_symbol,human_gene_id
+ADCY2,Dog,1:1,,18.0,suggestive,,Q150 Time spent in trance-like behavior,Depression (PMID 37464041); Bipolar disorder (PMIDs 24618891; 34002096); Multiple disorders (PMID 27890468),Well-being (PMID 29292387),Cognitive function (PMIDs 26252872; 29942086; 30038396; 37984853); Sleep (PMID 35835914),1:1,ADCY2,ENSG00000078295
+ADGRG1,Dog,1:1 ,11.0,,significant,Q145 Time spent false digging,,,,,1:1,ADGRG1,ENSG00000205336
+AEBP2,Dog,1:1,,14.0,suggestive,,Q7 Triggered by excitement,,,Cognitive function (PMID 37984853),1:1,AEBP2,ENSG00000139154
+ANTXR2,Dog,1:1 ,21.0,,significant,Q7 Triggered by excitement,,,,Sleep (PMID 35835914); Neuroimaging (PMID 31996736),1:1,ANTXR2,ENSG00000163297
+ARGLU1,Dog,1:1 ,15.0,,significant,Q153 Hard to get attention,,,,Neuroimaging (PMIDs 34560273; 34910505; 35113692),1:1,ARGLU1,ENSG00000134884
+ARHGAP15,Dog,1:1,,7.0,suggestive,,Q7 Triggered by excitement,Depression (PMIDs 29942085; 37464041); Substance use disorder (PMIDs 32451486; 36301540; 37156939; 37282553; 39024449; 41057643); Multiple disorders (PMID 35764056); Anxiety (PMID 39294497); Stress-related disorder (PMID 38637617),Risk-taking (PMID 34446935); Neuroticism (PMIDs 29500382; 29942085),Sleep (PMIDs 30595370; 30696823; 30804565; 35835914); Cognitive function (PMIDs 28530673; 29186694; 29520040; 29942086; 30038396; 32895543; 36378351; 39242605; 40374629),1:1,ARHGAP15,ENSG00000075884
+ARHGAP33,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 38890310); Cognitive function (PMID 30038396),1:1,ARHGAP33,ENSG00000004777
+ATL2,Dog,1:1,,6.0,suggestive,,Q93 Paces,,,Sleep (PMID 35835914),1:1,ATL2,ENSG00000119787
+B3GAT2,Dog,1:1,4.0,,significant,Q145 Time spent false digging,,,,Sleep (PMID 35835914),1:1,B3GAT2,ENSG00000112309
+BNC1,Dog,1:1,,16.0,suggestive,,Q151 Time spent floor licking,Substance use disorder (PMIDs 37156939; 41057643),Risk-taking (PMID 34446935),Neuroimaging (PMIDs 36893272; 38890310),1:1,BNC1,ENSG00000169594
+CAPN7,Dog,1:1,,10.0,suggestive,,CCDF3 Repetition frequency,,,,1:1,CAPN7,ENSG00000131375
+CD34,Dog,1:1,27.0,,significant,Q145 Time spent false digging,,Schizophrenia (PMID 25056061); Epilepsy (PMID 25344690); Alzheimer's disease (PMID 35589863),Risk-taking (PMID 30643258); Openness (PMID 30643258),Cognitive function (PMIDs 36378351; 40374629); Neuroimaging (PMIDs 32665545; 38438384; 38789058),1:1,CD34,ENSG00000174059
+CDH2,Dog,1:1,,27.0,suggestive,,Q145 Time spent false digging,,,Cognitive function (PMID 30038396); Sleep (PMID 33568662),1:1,CDH2,ENSG00000170558
+CDH8,Dog,1:1,25.0,,significant,Q150 Time spent in trance-like behavior,,Multiple disorders (PMIDs 35764056; 38565336); Attention deficit hyperactivity disorder (PMIDs 36702997; 40962958); Substance use disorder (PMID 41057643),Openness (PMID 30643258); Risk-taking (PMIDs 30643258; 34446935; 36324656),Cognitive function (PMIDs 29942086; 30038396; 36378351); Sleep (PMIDs 30804565; 35835914),1:1,CDH8,ENSG00000150394
+CELF4,Dog,1:1,,26.0,suggestive,,Q93 Paces,Depression (PMIDs 29292387; 29942085; 30643256; 30718901; 32606422; 33479212; 33859377; 34045744; 34586374; 34924174; 36750733; 37464041; 37985818; 38177345); Anxiety (PMIDs 39024449; 39294497); Substance use disorder (PMIDs 35017462; 41057643); Treatment-response (PMID 29559929),Neuroticism (PMIDs 27089181; 29255261; 29292387; 29500382; 29942085; 30595370; 30643256; 30867560; 31168069; 31972866; 32231276; 36244801); Well-being (PMIDs 29292387; 30643256); Extraversion (PMID 30643256); Risk-taking (PMIDs 30643258; 34446935); Openness (PMID 39237691),Cognitive function (PMID 30038396); Neuroimaging (PMID 31666681); Substance use (PMID 31689377),1:1,CELF4,ENSG00000101489
+CHST9,Dog,1:1,,27.0,suggestive,,Q145 Time spent false digging,,,,1:1,CHST9,ENSG00000154080
+CNGB1,Dog,1:1,11.0,,suggestive,,Q145 Time spent false digging,,,,1:1,CNGB1,ENSG00000070729
+COL6A5,Dog,1:1,,10.0,suggestive,,CCDF3 Repetition frequency,,,,1:1,COL6A5,ENSG00000172752
+CYP1B1,Dog,1:1,,6.0,suggestive,,Q93 Paces,Alzheimer's disease (PMID 35589863),,Neuroimaging (PMID 38438384),1:1,CYP1B1,ENSG00000138061
+DACH1,Dog,1:1,14.0,,significant,Q154 Hard to interrupt; CCDF1 Repetition severity; Q153 Hard to get attention,,,Risk-taking (PMID 34446935),,1:1,DACH1,ENSG00000276644
+DHX35,Dog,1:1,,11.0,suggestive,,Q154 Hard to interrupt,,,,1:1,DHX35,ENSG00000101452
+DLG2,Dog,1:1,,9.0,suggestive,,Q148 Time spent self-directed licking,Schizophrenia (PMID 30285260); Headache or migraine (PMID 28952330); Parkinson's disease (PMIDs 28892059; 31701892; 32310270; 38155330); Alzheimer's disease (PMID 35589863),Risk-taking (PMID 34446935),Neuroimaging (PMIDs 25607358; 29147026; 31636452; 32665545; 39353893); Sleep (PMIDs 30804565; 35835914); Cognitive function (PMID 30038396); Molecular brain biomarkers (PMID 28641921),1:1,DLG2,ENSG00000150672
+DUOX2,Dog,1:1,18.0,,significant,Q93 Paces,,,,Neuroimaging (PMIDs 34910505; 38789058),1:1,DUOX2,ENSG00000140279
+EDEM1,Dog,1:1,12.0,,significant,Q153 Hard to get attention; Q154 Hard to interrupt,,,,,1:1,EDEM1,ENSG00000134109
+EMC2,Dog,1:1,5.0,,significant,Q145 Time spent false digging,,,,Neuroimaging (PMIDs 32665545; 33875891; 34910505),1:1,EMC2,ENSG00000104412
+FAM155A,Dog,1:1,15.0,,significant,Q153 Hard to get attention,,,,,1:1,NALF1,ENSG00000204442
+FMNL3,Dog,1:1,,15.0,suggestive,,Q148 Time spent self-directed licking,Substance use disorder (PMID 38632388); Alzheimer's disease (PMID 39998322),Risk-taking (PMID 34446935); Neuroticism (PMID 31972866),Cognitive function (PMID 30038396); Substance use (PMID 31689377),1:1,FMNL3,ENSG00000161791
+GABRG1,Dog,1:1,,3.0,suggestive,,Q149 Time spent object/social licking,Alzheimer's disease (PMID 26830138); Epilepsy (PMIDs 30531953; 37653029); Multiple disorders (PMID 38565336),Risk-taking (PMIDs 30643258; 34446935); Openness (PMID 30643258),Sleep (PMID 37982563),1:1,GABRG1,ENSG00000163285
+GK2,Dog,1:1,21.0,,significant,Q7 Triggered by excitement,,Schizophrenia (PMIDs 33169155; 34380480; 35396580; 39753749); Depression (PMIDs 34045744; 34924174; 38177345; 41233554); Multiple disorders (PMID 31835028); Attention deficit hyperactivity disorder (PMID 33479212),Well-being (PMIDs 27089181; 29292387; 35589828),Sleep (PMID 30696823),1:1,GK2,ENSG00000196475
+GMDS,Dog,1:1,,19.0,suggestive,,Q7 Triggered by excitement,,,Sleep (PMID 27126917),1:1,GMDS,ENSG00000112699
+GNPDA2,Dog,1:1,,3.0,suggestive,,Q149 Time spent object/social licking,,,Sleep (PMID 35835914); Cognitive function (PMID 30038396),1:1,GNPDA2,ENSG00000163281
+GRIA1,Dog,1:1,,21.0,suggestive,,Q154 Hard to interrupt,Schizophrenia (PMIDs 23974872; 25056061; 26198764; 28991256; 29483656; 30285260; 31268507; 31740837; 32606422; 33479212; 34159505; 35396580; 39753749); Depression (PMIDs 29292387; 37464041; 38177345); Restless legs syndrome (PMID 38839884); Bipolar disorder (PMIDs 32606422; 33169155; 33479212; 34159505); Multiple disorders (PMIDs 28540026; 31835028); Alzheimer's disease (PMID 35589863); Stress-related disorder (PMIDs 35181757; 38637617),Extraversion (PMIDs 29500382; 29970889; 31518406); Well-being (PMIDs 27089181; 29292387); Risk-taking (PMIDs 30643258; 34446935),Cognitive function (PMID 30038396); Sleep (PMIDs 30595370; 30696823; 30804565; 33075057; 35835914),1:1,GRIA1,ENSG00000155511
+GRM4,Dog,1:1,,2.0,suggestive,,CCDF1 Repetition severity,Alzheimer's disease (PMID 39998322),,,1:1,GRM4,ENSG00000124493
+GRM7,Dog,1:1,12.0,,significant,Q153 Hard to get attention; Q154 Hard to interrupt,,Depression (PMID 37464041); Treatment-response (PMID 26856250),,Cognitive function (PMID 30038396); Sleep (PMIDs 30696823; 35835914); Neuroimaging (PMID 39353893),1:1,GRM7,ENSG00000196277
+HS3ST2,Dog,1:1,26.0,,significant,Q149 Time spent object/social licking,,,,Sleep (PMID 30696823),1:1,HS3ST2,ENSG00000122254
+HSPB6,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,HSPB6,ENSG00000004776
+ID2,Dog,1:1,8.0,,significant,Q153 Hard to get attention,,,,,1:1,ID2,ENSG00000115738
+IGFLR1,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,IGFLR1,ENSG00000126246
+IL12RB2,Dog,1:1,,22.0,suggestive,,CCDF2 Trancing/pacing,Tics and stuttering (PMID 39024449),,,1:1,IL12RB2,ENSG00000081985
+KATNIP,Dog,1:1,,25.0,suggestive,,Q153 Hard to get attention,,,Cognitive function (PMID 36150907),1:1,KATNIP,ENSG00000047578
+KCNE4,Dog,1:1,,20.0,suggestive,,Q152 Time spent light chasing,,,,1:1,KCNE4,ENSG00000152049
+KLHL1,Dog,1:1 ,14.0,,significant,Q154 Hard to interrupt; CCDF1 Repetition severity; Q153 Hard to get attention,,,,Sleep (PMID 35835914),1:1,KLHL1,ENSG00000150361
+KMT2B,Dog,1:1 ,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,KMT2B,ENSG00000272333
+LIN37,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,LIN37,ENSG00000267796
+LRPAP1,Dog,1:1,17.0,,significant,Q146 Time spent tail chasing,,,Neuroticism (PMID 29500382),,1:1,LRPAP1,ENSG00000163956
+LY86,Dog,1:1,22.0,,significant,Q145 Time spent false digging,,,,,1:1,LY86,ENSG00000112799
+MAFB,Dog,1:1,,11.0,suggestive,,Q154 Hard to interrupt,,,,1:1,MAFB,ENSG00000204103
+MLN,Dog,1:1,,2.0,suggestive,,CCDF1 Repetition severity,Schizophrenia (PMIDs 26198764; 30285260); Depression (PMID 30643256); Substance use disorder (PMID 37282553),Neuroticism (PMID 30643256); Risk-taking (PMID 34446935),Sleep (PMIDs 30804565; 35835914); Substance use (PMIDs 30643251; 36477530),1:1,MLN,ENSG00000096395
+NECAB1,Dog,1:1,16.0,,significant,Q149 Time spent object/social licking,,Substance use disorder (PMID 38632388),,Sleep (PMIDs 30804565; 35835914); Substance use (PMID 31689377),1:1,NECAB1,ENSG00000123119
+NMUR2,Dog,1:1,,21.0,suggestive,,Q154 Hard to interrupt,,Extraversion (PMID 29970889),Sleep (PMID 30696823),1:1,NMUR2,ENSG00000132911
+NPHS1,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891); Cognitive function (PMID 30038396),1:1,NPHS1,ENSG00000161270
+NTRK2,Dog,1:1,1.0,,significant,Q146 Time spent tail chasing,,Depression (PMID 38177345); Alzheimer's disease (PMID 39998322); Anxiety (PMID 31748690); Substance use disorder (PMID 36566681),Risk-taking (PMID 30643258),Cognitive function (PMID 30038396); Neuroimaging (PMID 36462729),1:1,NTRK2,ENSG00000148053
+OGFRL1,Dog,1:1,4.0,,significant,Q145 Time spent false digging,,,,,1:1,OGFRL1,ENSG00000119900
+PBX1,Dog,1:1,24.0,,significant,Q149 Time spent object/social licking,,Tics and stuttering (PMID 39024449),Risk-taking (PMID 34446935),,1:1,PBX1,ENSG00000185630
+PDE3A,Dog,1:1,,14.0,suggestive,,Q7 Triggered by excitement,,,Neuroimaging (PMIDs 34560273; 40097784),1:1,PDE3A,ENSG00000172572
+PLXNA2,Dog,1:1,27.0,,significant,Q145 Time spent false digging,,Schizophrenia (PMID 39753749); Restless legs syndrome (PMID 38839884),Risk-taking (PMIDs 30643258; 34446935; 36324656),Neuroimaging (PMIDs 34560273; 34910505); Cognitive function (PMID 40374629); Substance use (PMID 32193382),1:1,PLXNA2,ENSG00000076356
+PPA2,Dog,1:1,20.0,,significant,Q145 Time spent false digging,,Multiple disorders (PMID 35764056),Risk-taking (PMIDs 30643258; 36324656),Cognitive function (PMIDs 29520040; 29942086; 30038396; 36378351; 39242605); Sleep (PMID 35835914); Substance use (PMID 35585065),1:1,PPA2,ENSG00000138777
+PRODH2,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34910505); Cognitive function (PMID 30038396),1:1,PRODH2,ENSG00000250799
+PROSER3,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,PROSER3,ENSG00000167595
+PRPH2,Dog,1:1,3.0,,significant,Q145 Time spent false digging,,,,,1:1,PRPH2,ENSG00000112619
+PSENEN,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,PSENEN,ENSG00000205155
+RNF144A,Dog,1:1,8.0,,significant,Q154 Hard to interrupt; Q153 Hard to get attention; CCDF1 Repetition severity,,,,Cognitive function (PMID 36378351),1:1,RNF144A,ENSG00000151692
+RORB,Dog,1:1,,1.0,suggestive,,CCDF2 Trancing/pacing,Schizophrenia (PMID 35396580); Alzheimer's disease (PMID 39998322),,Neuroimaging (PMIDs 34560273; 34910505); Cognitive function (PMIDs 30038396; 36378351; 40374629); Substance use (PMID 32193382); Sleep (PMIDs 30804565; 35835914),1:1,RORB,ENSG00000198963
+RREB1,Dog,1:1,22.0,,significant,Q145 Time spent false digging,,Alzheimer's disease (PMID 39998322),,Neuroimaging (PMIDs 32193296; 32665545; 34560273; 34910505; 35113692; 38438384; 38789058); Sleep (PMIDs 30804565; 35835914); Cognitive function (PMID 30038396),1:1,RREB1,ENSG00000124782
+RTN4R,Dog,1:1,,12.0,suggestive,,Q149 Time spent object/social licking,Headache or migraine (PMID 35115687),Risk-taking (PMID 36324656),Neuroimaging (PMID 37612147),1:1,RTN4R,ENSG00000040608
+SCG2,Dog,1:1,,20.0,suggestive,,Q152 Time spent light chasing,,,,1:1,SCG2,ENSG00000171951
+SERBP1,Dog,1:1,,22.0,suggestive,,CCDF2 Trancing/pacing,Tics and stuttering (PMID 39024449),,,1:1,SERBP1,ENSG00000142864
+SH3GL3,Dog,1:1,,16.0,suggestive,,Q151 Time spent floor licking,Substance use disorder (PMID 37156939),Risk-taking (PMID 34446935),Cognitive function (PMID 30038396); Neuroimaging (PMID 38890310),1:1,SH3GL3,ENSG00000140600
+SLC4A3,Dog,1:1,23.0,,significant,Q155 Interferes with daily life,,,,,1:1,SLC4A3,ENSG00000114923
+SLC6A11,Dog,1:1,,8.0,suggestive,,Q155 Interferes with daily life,Alzheimer's disease (PMID 39024449),,,1:1,SLC6A11,ENSG00000132164
+SLC6A15,Dog,1:1,7.0,,significant,Q154 Hard to interrupt; Q153 Hard to get attention; CCDF1 Repetition severity,,Depression (PMIDs 27479909; 29292387; 29942085; 30718901; 32606422; 34045744; 34586374; 34924174; 37464041; 38177345); Restless legs syndrome (PMID 38839884); Alzheimer's disease (PMID 35589863); Substance use disorder (PMID 41057643),,Neuroimaging (PMIDs 34560273; 34910505); Sleep (PMIDs 30804565; 30804566; 35835914); Cognitive function (PMID 30038396); Substance use (PMIDs 31689377; 36477530),1:1,SLC6A15,ENSG00000072041
+SLIT2,Dog,1:1,,17.0,suggestive,,Q7 Triggered by excitement,Schizophrenia (PMIDs 35396580; 39753749),Risk-taking (PMID 34446935),Neuroimaging (PMIDs 33821002; 34560273; 34910505; 37337106),1:1,SLIT2,ENSG00000145147
+SPDYC,Dog,1:1,9.0,,significant,Q155 Interferes with daily life,,,,,1:1,SPDYC,ENSG00000204710
+SPSB1,Dog,1:1,,23.0,suggestive,,Q95 Stares blankly,,,,1:1,SPSB1,ENSG00000171621
+TENT4A,Dog,1:1,,18.0,suggestive,,Q150 Time spent in trance-like behavior,Schizophrenia (PMID 39753749),,,1:1,TENT4A,ENSG00000112941
+TMPRSS15,Dog,1:1,19.0,,significant,Q93 Paces,,,,,1:1,TMPRSS15,ENSG00000154646
+TRHR,Dog,1:1,5.0,,significant,Q145 Time spent false digging,,Epilepsy (PMID 37653029),,,1:1,TRHR,ENSG00000174417
+U2AF1L4,Dog,1:1,2.0,,significant,Q149 Time spent object/social licking,,,,Neuroimaging (PMIDs 31666681; 32665545; 33875891; 34560273; 34910505; 37164063; 38890310); Cognitive function (PMID 30038396),1:1,U2AF1L4,ENSG00000161265
+UBR2,Dog,1:1,3.0,,significant,Q145 Time spent false digging,,,,,1:1,UBR2,ENSG00000024048
+UTP20,Dog,1:1,,4.0,suggestive,,Q155 Interferes with daily life,Substance use disorder (PMID 24962325),,,1:1,UTP20,ENSG00000120800
+VSNL1,Dog,1:1,,5.0,suggestive,,Q153 Hard to get attention,,,Cognitive function (PMID 30038396),1:1,VSNL1,ENSG00000163032
+ZFHX3,Dog,1:1,,24.0,suggestive,,Q7 Triggered by excitement,Depression (PMID 41233554); Restless legs syndrome (PMID 38839884); Substance use disorder (PMIDs 32451486; 41057643); Anxiety (PMID 39294497),Risk-taking (PMIDs 30643258; 34446935); Well-being (PMIDs 30643256; 35589828),Neuroimaging (PMIDs 32665545; 34560273; 34910505); Substance use (PMID 36477530); Cognitive function (PMID 36378351),1:1,ZFHX3,ENSG00000140836
+ZWINT,Dog,1:1,,13.0,suggestive,,Q153 Hard to get attention,,Neuroticism (PMID 29500382),,1:1,ZWINT,ENSG00000122952

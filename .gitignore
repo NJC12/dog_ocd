@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Bulk external downloads exceed GitHub's regular-file size limit.
+# Keep their provenance companions tracked; obtain inputs from those sources.
+data/downloaded/gwas/*.gz
+data/downloaded/annotation/*.gz
+
+# All by All browser exports and derived burden outputs stay local.
+data/downloaded/burden/*.csv
+notebook/results/burden/

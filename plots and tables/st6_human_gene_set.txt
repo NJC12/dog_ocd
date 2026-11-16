@@ -1,0 +1,8 @@
+Gene-set membership and annotation from supplementary table ST6. The Human set contains all 48 ST6 Human genes, mapped by exact symbol to GENCODE.
+
+Rows: 48. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+st6_symbol: Gene symbol as recorded in supplementary table ST6.
+gene_id: GENCODE human Ensembl gene identifier.
+symbol: Human gene symbol.

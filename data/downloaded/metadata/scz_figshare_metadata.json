@@ -1,0 +1,405 @@
+{
+  "files": [
+    {
+      "id": 34865091,
+      "name": "PGC3_SCZ_sumstats_release_v3.2_README.pdf",
+      "size": 67691,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34865091",
+      "supplied_md5": "eb473dc838d2b74015e51723d28107fd",
+      "computed_md5": "eb473dc838d2b74015e51723d28107fd",
+      "mimetype": "application/pdf"
+    },
+    {
+      "id": 34517801,
+      "name": "PGC3_SCZ_wave3.afram.autosome.public.v3.vcf.tsv.gz",
+      "size": 175443419,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517801",
+      "supplied_md5": "958bacea51d826b62f8b0a08b8f5d833",
+      "computed_md5": "958bacea51d826b62f8b0a08b8f5d833",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517804,
+      "name": "PGC3_SCZ_wave3.asian.autosome.public.v3.vcf.tsv.gz",
+      "size": 216466785,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517804",
+      "supplied_md5": "bbc5dfbab9d72f7de138b1156860aa06",
+      "computed_md5": "bbc5dfbab9d72f7de138b1156860aa06",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517807,
+      "name": "PGC3_SCZ_wave3.core.autosome.public.v3.vcf.tsv.gz",
+      "size": 442947443,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517807",
+      "supplied_md5": "1d8a9885cbd21b4a2f3dc50e7f9ed693",
+      "computed_md5": "1d8a9885cbd21b4a2f3dc50e7f9ed693",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517825,
+      "name": "PGC3_SCZ_wave3.core.chrX.public.v3.vcf.tsv.gz",
+      "size": 7646193,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517825",
+      "supplied_md5": "3a097285cc9b586475ffb10c87a61f06",
+      "computed_md5": "3a097285cc9b586475ffb10c87a61f06",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517828,
+      "name": "PGC3_SCZ_wave3.european.autosome.public.v3.vcf.tsv.gz",
+      "size": 239710564,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517828",
+      "supplied_md5": "6ebe2376f5cda972d37efa0f214c4df0",
+      "computed_md5": "6ebe2376f5cda972d37efa0f214c4df0",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517855,
+      "name": "PGC3_SCZ_wave3.latino.autosome.public.v3.vcf.tsv.gz",
+      "size": 192986014,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517855",
+      "supplied_md5": "e1af622e13172bf9e5986a49ddad0860",
+      "computed_md5": "e1af622e13172bf9e5986a49ddad0860",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517861,
+      "name": "PGC3_SCZ_wave3.primary.autosome.public.v3.vcf.tsv.gz",
+      "size": 236122083,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517861",
+      "supplied_md5": "e186621c9c290605ad7e19968bfc3dfc",
+      "computed_md5": "e186621c9c290605ad7e19968bfc3dfc",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 34517864,
+      "name": "PGC3_SCZ_wave3.primary.chrX.public.v3.vcf.tsv.gz",
+      "size": 108589,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/34517864",
+      "supplied_md5": "d623d603a115a96bf7da26134338e2c0",
+      "computed_md5": "d623d603a115a96bf7da26134338e2c0",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 35775617,
+      "name": "scz2022-Extended-Data-Table1.xlsx",
+      "size": 110845,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/35775617",
+      "supplied_md5": "8fee2faee10ddf2c9f8a16a54f2c5b84",
+      "computed_md5": "8fee2faee10ddf2c9f8a16a54f2c5b84",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": 41008124,
+      "name": "daner_PGC_SCZ_w3_81_0618a_all_male.gz",
+      "size": 431760744,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008124",
+      "supplied_md5": "36412cadb9b75b69080a9cf0b8c47019",
+      "computed_md5": "36412cadb9b75b69080a9cf0b8c47019",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 41008133,
+      "name": "daner_PGC_SCZ_w3_81_0618a_all_female.gz",
+      "size": 431629836,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008133",
+      "supplied_md5": "273a0233122b6154fecd0089099188be",
+      "computed_md5": "273a0233122b6154fecd0089099188be",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 41008136,
+      "name": "daner_PGC_SCZ_w3_81_0618a_all_male.gz.cksum.txt",
+      "size": 59,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008136",
+      "supplied_md5": "b141cfbe43e5189f6265a4c452b03448",
+      "computed_md5": "b141cfbe43e5189f6265a4c452b03448",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008139,
+      "name": "daner_PGC_SCZ_w3_75_0618a_eur_male.gz",
+      "size": 396948011,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008139",
+      "supplied_md5": "564694661075c1a805aa10586f2fc1f6",
+      "computed_md5": "564694661075c1a805aa10586f2fc1f6",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 41008142,
+      "name": "daner_PGC_SCZ_w3_81_0618a_all_female.gz.cksum.txt",
+      "size": 61,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008142",
+      "supplied_md5": "ac9c963df42107d93bf5a26619ba8d35",
+      "computed_md5": "ac9c963df42107d93bf5a26619ba8d35",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008148,
+      "name": "daner_PGC_SCZ_w3_75_0618a_eur_female.gz",
+      "size": 397867065,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008148",
+      "supplied_md5": "962c2bd94585b6af5cd9ecce1aa6d834",
+      "computed_md5": "962c2bd94585b6af5cd9ecce1aa6d834",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 41008151,
+      "name": "daner_PGC_SCZ_w3_75_0618a_eur_male.gz.cksum.txt",
+      "size": 59,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008151",
+      "supplied_md5": "97f60115691ab9575099cb5beb5590d3",
+      "computed_md5": "97f60115691ab9575099cb5beb5590d3",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008154,
+      "name": "daner_PGC_SCZ_w3_75_0618a_eur_female.gz.cksum.txt",
+      "size": 61,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008154",
+      "supplied_md5": "951d347c05f762b8e3cc240e5d38c879",
+      "computed_md5": "951d347c05f762b8e3cc240e5d38c879",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008163,
+      "name": "daner_PGC_SCZ_w3_14_0618a_asn_male.gz",
+      "size": 249439791,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008163",
+      "supplied_md5": "8c9c9954012c9c4678f39a589142e1da",
+      "computed_md5": "8c9c9954012c9c4678f39a589142e1da",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 41008166,
+      "name": "daner_PGC_SCZ_w3_14_0618a_asn_female.gz",
+      "size": 249446683,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008166",
+      "supplied_md5": "a1341051d983b7a9ec10c8539ad063d8",
+      "computed_md5": "a1341051d983b7a9ec10c8539ad063d8",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52743836,
+      "name": "daner_scz_w3_HRC_chrX_eur_mal_deduped_0518e.gz.cksum.txt",
+      "size": 67,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743836",
+      "supplied_md5": "472773066457e4f9a631beddedc459e7",
+      "computed_md5": "472773066457e4f9a631beddedc459e7",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 42403413,
+      "name": "daner_PGC_SCZ_w3_90_0418b_ukbbdedupe.gz.cksum.txt",
+      "size": 61,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/42403413",
+      "supplied_md5": "c40123a3d13f720d42a84086eb1c3152",
+      "computed_md5": "c40123a3d13f720d42a84086eb1c3152",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008169,
+      "name": "daner_PGC_SCZ_w3_14_0618a_asn_male.gz.cksum.txt",
+      "size": 58,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008169",
+      "supplied_md5": "88869cff1865242baf9b67418e52468a",
+      "computed_md5": "88869cff1865242baf9b67418e52468a",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41008172,
+      "name": "daner_PGC_SCZ_w3_14_0618a_asn_female.gz.cksum.txt",
+      "size": 60,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41008172",
+      "supplied_md5": "a6a08640f8a57ad73a999c85c5da3930",
+      "computed_md5": "a6a08640f8a57ad73a999c85c5da3930",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 42403416,
+      "name": "daner_PGC_SCZ_w3_90_0418b_ukbbdedupe.gz",
+      "size": 446305058,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/42403416",
+      "supplied_md5": "04b595e16333cc277d183b5c754818fb",
+      "computed_md5": "04b595e16333cc277d183b5c754818fb",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52743839,
+      "name": "daner_scz_w3_HRC_chrX_eur_fem_deduped_0518e.gz.cksum.txt",
+      "size": 67,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743839",
+      "supplied_md5": "80165c2b646db4a7126d6b547e108c06",
+      "computed_md5": "80165c2b646db4a7126d6b547e108c06",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 52743845,
+      "name": "daner_scz_w3_HRC_chrX_asn_mal_run2.gz.cksum.txt",
+      "size": 56,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743845",
+      "supplied_md5": "74905ad9d10bceab71e299f6a3c855a4",
+      "computed_md5": "74905ad9d10bceab71e299f6a3c855a4",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 52743854,
+      "name": "daner_scz_w3_HRC_chrX_asn_mal_run2.gz",
+      "size": 7077715,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743854",
+      "supplied_md5": "5872c4060b63813ff2604f580ae0cf21",
+      "computed_md5": "5872c4060b63813ff2604f580ae0cf21",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52743851,
+      "name": "daner_scz_w3_HRC_chrX_asn_fem_run2.gz.cksum.txt",
+      "size": 57,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743851",
+      "supplied_md5": "a0afaad7804ae1f99276963b35394abf",
+      "computed_md5": "a0afaad7804ae1f99276963b35394abf",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 52743857,
+      "name": "daner_scz_w3_HRC_chrX_asn_fem_run2.gz",
+      "size": 7035387,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52743857",
+      "supplied_md5": "d3ec4627b641d8854fc3cd5c20d14f0d",
+      "computed_md5": "d3ec4627b641d8854fc3cd5c20d14f0d",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52744043,
+      "name": "daner_scz_w3_HRC_chrX_eur_mal_deduped_0518e.gz",
+      "size": 12698172,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52744043",
+      "supplied_md5": "0a3fed754eaf7b5857d7214fb708aaf5",
+      "computed_md5": "0a3fed754eaf7b5857d7214fb708aaf5",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52744046,
+      "name": "daner_scz_w3_HRC_chrX_eur_fem_deduped_0518e.gz",
+      "size": 12374246,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52744046",
+      "supplied_md5": "42d551bc0bf06f9323ae19ce69b119ce",
+      "computed_md5": "42d551bc0bf06f9323ae19ce69b119ce",
+      "mimetype": "application/gzip"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 9665315,
+      "full_name": "Patrick Sullivan",
+      "first_name": "Patrick",
+      "last_name": "Sullivan",
+      "is_active": true,
+      "url_name": "Patrick_Sullivan",
+      "orcid_id": "0000-0002-6619-873X"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/scz2022/19426775",
+  "download_disabled": false,
+  "description": "GWAS summary statistics from the Psychiatric Genomics Consortium (PGC)<p></p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 7,
+  "status": "public",
+  "size": 4154193000,
+  "created_date": "2025-03-06T20:08:38Z",
+  "modified_date": "2025-03-06T20:08:38Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "genome-wide association analyses",
+    "Genetics not elsewhere classified"
+  ],
+  "keywords": [
+    "genome-wide association analyses",
+    "Genetics not elsewhere classified"
+  ],
+  "categories": [
+    {
+      "id": 24319,
+      "title": "Genetics not elsewhere classified",
+      "parent_id": 24283,
+      "path": "/24130/24283/24319",
+      "source_id": "310599",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "Sullivan, Patrick (2022). scz2022. figshare. Dataset. https://doi.org/10.6084/m9.figshare.19426775.v7",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": "file",
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 19426775,
+  "title": "scz2022",
+  "doi": "10.6084/m9.figshare.19426775.v7",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/19426775",
+  "published_date": "2025-03-06T20:08:38Z",
+  "thumb": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/34865091/thumb.png",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/19426775",
+  "url_public_api": "https://api.figshare.com/v2/articles/19426775",
+  "url_private_html": "https://figshare.com/account/articles/19426775",
+  "url_public_html": "https://figshare.com/articles/dataset/scz2022/19426775",
+  "timeline": {
+    "posted": "2025-03-06T20:08:38",
+    "firstOnline": "2022-03-27"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

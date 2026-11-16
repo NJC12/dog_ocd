@@ -1,0 +1,12 @@
+TOGA dog-gene OCD window association thresholds, independently checked against the mapped SNP cache. Each of 83 genes is evaluated at ±1 Mb and ±500 kb from its TSS. Categories are genome-wide (p < 5e-8), additional at 5e-6 (5e-8 ≤ p < 5e-6), and neither (p ≥ 5e-6). Combined counts sum significant and suggestive dog subsets. Minimum-window p-values are not adjusted for window SNP count.
+
+Rows: 6. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+dog_set: Significant (43), suggestive (40), or combined (83) TOGA dog genes.
+genome_wide: Count with minimum window p-value < 5e-8.
+additional_at_5e-6: Count with 5e-8 ≤ minimum window p-value < 5e-6.
+neither: Count with minimum window p-value ≥ 5e-6.
+total_below_5e-6: Count with minimum window p-value < 5e-6, including genome-wide signals.
+genes_tested: Number of dog genes evaluated.

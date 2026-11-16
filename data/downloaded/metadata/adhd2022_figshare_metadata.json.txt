@@ -1,0 +1,18 @@
+adhd2022_figshare_metadata.json
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+API URL: https://api.figshare.com/v2/articles/22564390
+Dataset URL: https://figshare.com/articles/dataset/adhd2022/22564390
+Recorded DOI/version: 10.6084/m9.figshare.22564390.v1
+Recorded source published_date: 2023-04-05T20:12:39Z
+The snapshot itself does not record the local API retrieval date.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Retained Figshare public API JSON response for dataset adhd2022. Includes dataset DOI/version, publication metadata, descriptions, authors, files, download URLs, file sizes, checksums and source licensing fields. It may list source files not downloaded into this project. This is external source metadata, not an analysis result.
+
+Local identity checksum
+SHA-256: d35dd4a77a94d76ee00dfc72086876953d4db6121d57552d783cc5238dde501d
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

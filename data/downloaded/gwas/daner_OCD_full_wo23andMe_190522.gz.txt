@@ -1,0 +1,21 @@
+daner_OCD_full_wo23andMe_190522.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ndownloader.figshare.com/files/53357735
+Dataset record: https://figshare.com/articles/dataset/ocd2024/28707155
+Citation/version: Strom et al., Nature Genetics (2025), doi:10.1038/s41588-025-02189-z.
+Evidence retained in the project README, GWAS manifest and study source metadata.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+OCD-3 European-ancestry meta-analysis excluding 23andMe: 23,493 cases and 1,114,613 controls. Gzip-compressed Ricopili daner table. Relevant columns are CHR, SNP, BP (1-based GRCh37), and P; other columns record alleles, frequencies, effect estimates, sample sizes and heterogeneity. The local source README specifies build GRCh37.
+
+Checksum
+MD5: 9ab61cb7412c42a0ba207856af6da0f8
+Bytes: 309646832
+Expected checksum and local verification were recorded in the project manifest before reorganization.
+
+Notes
+The analysis consumes SNP coordinates and p-values, validates source rows, and lifts GRCh37 traits to GRCh38. The original downloaded file is retained unchanged. CAD is already harmonised to GRCh38.

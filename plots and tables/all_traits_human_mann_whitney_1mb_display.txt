@@ -1,0 +1,12 @@
+Displayed one-sided Mann–Whitney tests for all 48 ST6 Human genes against all other covered genes, across six traits at this window. P(human stronger) counts ties as one-half. Holm correction uses a separate family of 12 Human-set tests (six traits × two windows).
+
+Rows: 6. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+Human genes: Number of covered ST6 Human genes.
+Other genes: Number of background genes: non-dog for dog tests, all other genes for Human-set tests.
+U: Mann–Whitney U for the selected set versus its background, using association strength.
+P(human stronger): Probability an ST6 Human gene has stronger association than a background gene, counting ties as one-half.
+One-sided p: One-sided asymptotic Mann–Whitney p-value testing stronger association in the selected set.
+Holm p: Holm-adjusted p-value; dog tests use six OCD tests only (control traits blank); Human-set tests use a separate 12-test family.

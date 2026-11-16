@@ -1,0 +1,341 @@
+{
+  "gwas": {
+    "total": 6791632,
+    "invalid_fields": 0,
+    "unmapped": 2794,
+    "ambiguous": 0,
+    "cross_chromosome_mapped": 6,
+    "mapped_nonautosomal_or_invalid": 771,
+    "mapped": 6788067
+  },
+  "genes_total": 19166,
+  "dog_eligible": 78,
+  "windows": {
+    "1mb": {
+      "width_each_side_bp": 1000000,
+      "genes_covered": 19144,
+      "dog_covered": 78,
+      "dog_significant_covered": 39,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.4125682596497971,
+          "null_mean": 0.5027723275953946,
+          "empirical_one_sided_p": 0.024697530246975304,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.3757076904045319,
+          "null_mean": 0.5034008137081455,
+          "empirical_one_sided_p": 0.047795220477952205,
+          "permutations": 10000
+        }
+      }
+    },
+    "500kb": {
+      "width_each_side_bp": 500000,
+      "genes_covered": 19119,
+      "dog_covered": 78,
+      "dog_significant_covered": 39,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.3511644107938974,
+          "null_mean": 0.502416407578303,
+          "empirical_one_sided_p": 0.00029997000299970003,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.3372595421628712,
+          "null_mean": 0.5038432030011195,
+          "empirical_one_sided_p": 0.0100989901009899,
+          "permutations": 10000
+        }
+      }
+    }
+  },
+  "liftover_sample": [
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67176846,
+      "grch38": 66711163,
+      "snp": "rs609219",
+      "reverse_matches": [
+        [
+          "1",
+          67176846
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 68677760,
+      "grch38": 68212077,
+      "snp": "rs12034030",
+      "reverse_matches": [
+        [
+          "1",
+          68677760
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62414752,
+      "grch38": 61949080,
+      "snp": "rs2498958",
+      "reverse_matches": [
+        [
+          "1",
+          62414752
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 65988321,
+      "grch38": 65522638,
+      "snp": "rs12073622",
+      "reverse_matches": [
+        [
+          "1",
+          65988321
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 68703977,
+      "grch38": 68238294,
+      "snp": "rs2820476",
+      "reverse_matches": [
+        [
+          "1",
+          68703977
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 63361124,
+      "grch38": 62895453,
+      "snp": "rs2803239",
+      "reverse_matches": [
+        [
+          "1",
+          63361124
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69228887,
+      "grch38": 68763204,
+      "snp": "rs114605216",
+      "reverse_matches": [
+        [
+          "1",
+          69228887
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66579560,
+      "grch38": 66113877,
+      "snp": "rs633894",
+      "reverse_matches": [
+        [
+          "1",
+          66579560
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69205799,
+      "grch38": 68740116,
+      "snp": "rs142566049",
+      "reverse_matches": [
+        [
+          "1",
+          69205799
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62688422,
+      "grch38": 62222750,
+      "snp": "rs72679787",
+      "reverse_matches": [
+        [
+          "1",
+          62688422
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 65989069,
+      "grch38": 65523386,
+      "snp": "rs12079616",
+      "reverse_matches": [
+        [
+          "1",
+          65989069
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66660527,
+      "grch38": 66194844,
+      "snp": "rs78832141",
+      "reverse_matches": [
+        [
+          "1",
+          66660527
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67649700,
+      "grch38": 67184017,
+      "snp": "rs12095335",
+      "reverse_matches": [
+        [
+          "1",
+          67649700
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62061141,
+      "grch38": 61595469,
+      "snp": "rs4915760",
+      "reverse_matches": [
+        [
+          "1",
+          62061141
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69423415,
+      "grch38": 68957732,
+      "snp": "rs12087596",
+      "reverse_matches": [
+        [
+          "1",
+          69423415
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 63119256,
+      "grch38": 62653585,
+      "snp": "rs12117388",
+      "reverse_matches": [
+        [
+          "1",
+          63119256
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 61451316,
+      "grch38": 60985644,
+      "snp": "rs1283258",
+      "reverse_matches": [
+        [
+          "1",
+          61451316
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67631423,
+      "grch38": 67165740,
+      "snp": "rs11465753",
+      "reverse_matches": [
+        [
+          "1",
+          67631423
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 64804558,
+      "grch38": 64338875,
+      "snp": "rs1496014",
+      "reverse_matches": [
+        [
+          "1",
+          64804558
+        ]
+      ],
+      "reverse_unique": true
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66169142,
+      "grch38": 65703459,
+      "snp": "rs17127920",
+      "reverse_matches": [
+        [
+          "1",
+          66169142
+        ]
+      ],
+      "reverse_unique": true
+    }
+  ]
+}

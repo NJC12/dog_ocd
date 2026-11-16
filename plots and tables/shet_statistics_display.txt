@@ -1,0 +1,17 @@
+Constraint-analysis statistics comparing all ST6 Dog and Human genes using human Agarwal posterior mean s_het. COL6A5 lacks an estimate, leaving 86 Dog and 48 Human genes. The group test is two-sided asymptotic Mann–Whitney with tie and continuity corrections. Posterior uncertainty is not propagated. Nested statistics, when present, are serialized in individual cells.
+
+Rows: 1. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+n_dog: Number of ST6 genes in this group with available human constraint estimates.
+n_human: Number of ST6 genes in this group with available human constraint estimates.
+U_dog: Mann–Whitney U for Dog versus Human posterior mean s_het.
+p_two_sided: Two-sided asymptotic Mann–Whitney p-value comparing Dog and Human s_het.
+probability_dog_greater: Probability a Dog gene's posterior mean s_het exceeds a Human gene's, counting ties as one-half.
+median_shet_dog: Median posterior mean s_het among available ST6 Dog genes.
+median_shet_human: Median posterior mean s_het among ST6 Human genes.
+median_rank_dog: Median pooled s_het rank among available ST6 Dog genes.
+median_rank_human: Median pooled s_het rank among ST6 Human genes.
+method: Statistical method and settings.
+n_plotted: Number of genes plotted with available constraint and OCD association estimates.
+missing_shet_genes: ST6 genes lacking an Agarwal posterior.

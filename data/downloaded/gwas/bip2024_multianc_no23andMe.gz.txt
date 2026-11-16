@@ -1,0 +1,21 @@
+bip2024_multianc_no23andMe.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ndownloader.figshare.com/files/49760775
+Dataset record: https://figshare.com/articles/dataset/bip2024/27216117
+Citation/version: O'Connell et al.; the local README cites medRxiv doi:10.1101/2023.10.07.23296687v1. Figshare snapshot doi:10.6084/m9.figshare.27216117.v2 (published 2025-01-31).
+Evidence retained in the project README, GWAS manifest and study source metadata.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Bipolar-disorder multi-ancestry GWAS meta-analysis excluding 23andMe. Gzip-compressed Ricopili daner-format summary statistics. Relevant columns CHR, SNP, BP and P; BP uses hg19/GRCh37 coordinates as stated in the study README. Multi-ancestry allele-frequency columns use the corresponding ancestry reference panels. Variants failing the source-study effective sample-size and QC criteria were removed before release.
+
+Checksum
+MD5: 6615ee8a7c6443df124848d17ba1336e
+Bytes: 398949946
+Expected checksum and local verification were recorded in the project manifest before reorganization.
+
+Notes
+The analysis consumes SNP coordinates and p-values, validates source rows, and lifts GRCh37 traits to GRCh38. The original downloaded file is retained unchanged. CAD is already harmonised to GRCh38.

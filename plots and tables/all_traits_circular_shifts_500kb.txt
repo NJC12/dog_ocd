@@ -1,0 +1,13 @@
+Circular-shift enrichment tests for the significant and combined TOGA dog sets. Each trait/window uses 10,000 independent within-chromosome circular shifts of gene-set membership among covered genes ordered by genomic position. The statistic is the mean signal-rank percentile within chromosome × SNP-count strata (smaller is stronger), rather than the genome-wide ranks used in CDFs. Empirical one-sided p-values use a plus-one correction. These p-values are unadjusted.
+
+Rows: 12. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+Window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+Dog set: Dog set; see the table context above.
+Dog genes: Number of covered genes in the selected dog subset.
+Mean rank: Observed mean chromosome/SNP-count-stratified signal-rank percentile; smaller means stronger association.
+Null mean rank: Mean selected-set signal-rank percentile across the circular-shift null replicates.
+Empirical p: One-sided circular-shift p-value with a plus-one correction, testing smaller mean rank.
+Permutations: Number of within-chromosome circular-shift replicates.

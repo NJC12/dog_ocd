@@ -1,0 +1,15 @@
+dog_human_biomart.tsv
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Service URL: https://www.ensembl.org/biomart/martservice
+Query: dataset clfamiliaris_gene_ensembl; external_gene_name filter; attributes external_gene_name, ensembl_gene_id, hsapiens_homolog_ensembl_gene and hsapiens_homolog_orthology_type; TSV format with header and uniqueRows=1. The complete query construction is in src/audit_orthology.py. Source release and retrieval date are not recorded in this cached TSV.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Cached Ensembl BioMart TSV with gene name, dog Ensembl gene ID, human Ensembl homolog gene ID and human homology type. The request queried clfamiliaris_gene_ensembl for ST6 dog symbols, with NALF1 also included to resolve the FAM155A alias. Used by the legacy orthology audit alongside REST responses and GENCODE; it does not filter the current TOGA notebook gene set.
+
+Local identity checksum
+SHA-256: f5c0409a3c437a9b964be749badcd00f0522004ce5b3b3ed7e57ab3143b11a96
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

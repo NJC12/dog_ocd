@@ -1,0 +1,11 @@
+Displayed circular-shift tests of the 48 ST6 Human genes, across six traits at this window. Mean chromosome/SNP-count-stratified signal-rank percentile is compared with 10,000 within-chromosome shifts; smaller is stronger. Empirical p is one-sided with a plus-one correction and no multiple-testing adjustment.
+
+Rows: 6. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+Human genes: Number of covered ST6 Human genes.
+Mean rank: Observed mean chromosome/SNP-count-stratified signal-rank percentile; smaller means stronger association.
+Null mean rank: Mean selected-set signal-rank percentile across the circular-shift null replicates.
+Empirical p: One-sided circular-shift p-value with a plus-one correction, testing smaller mean rank.
+Shifts: Number of within-chromosome circular-shift replicates.

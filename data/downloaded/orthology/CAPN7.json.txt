@@ -1,0 +1,15 @@
+CAPN7.json
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+API URL: https://rest.ensembl.org/homology/symbol/canis_lupus_familiaris/CAPN7?target_species=homo_sapiens;type=orthologues;sequence=none
+Retrieved and serialized by src/audit_orthology.py. The source Ensembl release and exact retrieval timestamp are not embedded in the retained response; do not infer them from the present-day API.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Cached JSON response from Ensembl REST for dog gene symbol CAPN7, requesting human orthologues. Contents include query/source gene identifiers, target human gene identifiers, orthology relationship types and available homology metrics. Some symbols may have no returned homologies; an empty result is part of the retained external response. The legacy audit uses these responses plus BioMart and GENCODE to check ST6 mappings. The current notebook uses ST6 TOGA one-to-one labels instead of filtering by this legacy Ensembl audit.
+
+Local identity checksum
+SHA-256: 653b215122a482b8fe054de30ff8f512188ffd25f5a8bee9a38be4127bc5d2b8
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

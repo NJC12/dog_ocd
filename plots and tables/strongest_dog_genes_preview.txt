@@ -1,0 +1,10 @@
+The five strongest dog genes per trait and window, selected by genome-wide association rank. This displayed subset is a preview; mann_whitney_gene_ranks.tsv contains all covered genes.
+
+Rows: 60. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+symbol: Human gene symbol.
+min_p: Minimum SNP p-value in the relevant window (±1 Mb if no window column).
+rank: Genome-wide rank of minimum window p-value; 1 is strongest, ties have average ranks.

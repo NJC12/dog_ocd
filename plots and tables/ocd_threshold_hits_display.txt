@@ -1,0 +1,10 @@
+TOGA dog genes with minimum OCD window p-value < 5e-6, listing the window, dog subset, symbol, minimum p-value and lead SNP. These are window minimum p-values without adjustment for the number of SNPs.
+
+Rows: 7. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+dog_set: Significant (43), suggestive (40), or combined (83) TOGA dog genes.
+symbol: Human gene symbol.
+min_p: Minimum SNP p-value in the relevant window (±1 Mb if no window column).
+lead_snp: SNP attaining the minimum window p-value (±1 Mb if no window column).

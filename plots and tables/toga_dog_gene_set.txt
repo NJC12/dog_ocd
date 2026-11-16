@@ -1,0 +1,19 @@
+Gene-set membership and annotation from supplementary table ST6. The dog set contains 83 TOGA one-to-one human orthologs: 43 significant and 40 suggestive dog GWAS genes, selected from the original 87 ST6 Dog genes.
+
+Rows: 83. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Gene*: Original ST6 dog gene symbol.
+Species: Species; see the table context above.
+TOGA (Human:Dog)**: TOGA (Human:Dog)**; see the table context above.
+dogCD sig_region_number (see Supplementary Table 5): dogCD sig region number (see Supplementary Table 5); see the table context above.
+dogCD sugg_region_number (see Supplementary Table 5): dogCD sugg region number (see Supplementary Table 5); see the table context above.
+dogCD significance: ST6 significant or suggestive dog GWAS category.
+dogCD phenotypes: dogCD phenotypes; see the table context above.
+suggestive dogCD phenotypes: suggestive dogCD phenotypes; see the table context above.
+GWAS catalog*** (psych disorder): GWAS catalog*** (psych disorder); see the table context above.
+GWAS catalog*** (temperament): GWAS catalog*** (temperament); see the table context above.
+GWAS catalog*** (other): GWAS catalog*** (other); see the table context above.
+TOGA: Orthology label as supplied in ST6.
+human_symbol: Mapped human ortholog gene symbol.
+human_gene_id: Mapped GENCODE human Ensembl gene identifier.

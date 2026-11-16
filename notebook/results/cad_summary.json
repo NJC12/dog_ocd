@@ -1,0 +1,59 @@
+{
+  "source": "GCST90132314.h.tsv.gz",
+  "md5": "82e19c1817c52d5a94c8f42d9f48ccd0",
+  "coordinate_system": "1-based GRCh38",
+  "gwas": {
+    "total": 19520119,
+    "invalid_fields": 0,
+    "valid_autosomal": 19520119,
+    "p_zero": 0
+  },
+  "genes_total": 19166,
+  "dog_eligible": 78,
+  "windows": {
+    "1mb": {
+      "width_each_side_bp": 1000000,
+      "genes_covered": 19166,
+      "dog_covered": 78,
+      "dog_significant_covered": 39,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.5324663242276773,
+          "null_mean": 0.5027350776151744,
+          "empirical_one_sided_p": 0.7192280771922808,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.563040835182621,
+          "null_mean": 0.5014635183410696,
+          "empirical_one_sided_p": 0.7584241575842415,
+          "permutations": 10000
+        }
+      }
+    },
+    "500kb": {
+      "width_each_side_bp": 500000,
+      "genes_covered": 19166,
+      "dog_covered": 78,
+      "dog_significant_covered": 39,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.5905422243887818,
+          "null_mean": 0.5023945390834892,
+          "empirical_one_sided_p": 0.9683031696830317,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.6553102886280827,
+          "null_mean": 0.5024911813559502,
+          "empirical_one_sided_p": 0.9814018598140186,
+          "permutations": 10000
+        }
+      }
+    }
+  }
+}

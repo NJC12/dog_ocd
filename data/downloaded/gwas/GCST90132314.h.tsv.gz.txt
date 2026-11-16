@@ -1,0 +1,21 @@
+GCST90132314.h.tsv.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90132001-GCST90133000/GCST90132314/harmonised/GCST90132314.h.tsv.gz
+Dataset record: https://www.ebi.ac.uk/gwas/studies/GCST90132314
+Citation/version: Aragam et al., Nature Genetics (2022); GWAS Catalog accession GCST90132314.
+Evidence retained in the project README, GWAS manifest and study source metadata.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Primary discovery coronary artery disease meta-analysis; harmonised gzip-compressed TSV. Relevant harmonised columns are chromosome, base_pair_location, p_value and rsid. The published YAML retained in downloaded/metadata/ declares genome_assembly=GRCh38 and coordinate_system=1-based. Original markername/author notes describe GRCh37 coordinates and must not be confused with the harmonised coordinate columns. Published metadata last modified 2025-01-14.
+
+Checksum
+MD5: 82e19c1817c52d5a94c8f42d9f48ccd0
+Bytes: 1300497824
+Expected checksum and local verification were recorded in the project manifest before reorganization.
+
+Notes
+The analysis consumes SNP coordinates and p-values, validates source rows, and lifts GRCh37 traits to GRCh38. The original downloaded file is retained unchanged. CAD is already harmonised to GRCh38.

@@ -1,0 +1,11 @@
+Human constraint and OCD association in ST6 dog and human genes
+
+Each point represents one ST6 gene with an available human Agarwal posterior mean s_het and an OCD ±500 kb TSS-window association. This analysis uses the full ST6 groups, before the TOGA restriction: 87 Dog and 48 Human genes. COL6A5 lacks a constraint estimate, leaving 86 Dog and 48 Human points. Both groups use human constraint estimates.
+
+The x-axis is −log10 of the minimum OCD SNP p-value within ±500 kb of the TSS; farther right indicates stronger OCD association. The y-axis is log10 of the posterior mean s_het; higher values indicate stronger estimated selection against heterozygous loss-of-function variants.
+
+Dark-blue and light-blue points denote significant and suggestive dog GWAS genes; orange points denote ST6 Human genes. Blue and orange squares mark the Dog and Human group medians, computed in the original units before transformation. The blue median combines both dog categories.
+
+The gray line is a pooled ordinary least-squares fit with an intercept across all 134 individual genes in the displayed coordinates. Its slope is printed on the plot; median squares are not additional observations.
+
+The top and right panels show Gaussian kernel density estimates for all Dog genes combined (blue) and Human genes (orange), using Scott's bandwidth rule separately for each group. Each gene has equal weight. These describe gene-level point estimates, not pooled posterior densities. Posterior uncertainty is not propagated into the scatter plot or fit.

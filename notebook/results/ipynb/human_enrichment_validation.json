@@ -1,0 +1,106 @@
+{
+  "n_executed_cells": 96,
+  "human_mann_whitney_tests": 12,
+  "dog_mann_whitney_tests": 36,
+  "human_shift_tests": 12,
+  "shifts_per_test": 10000,
+  "human_cdf_identical_to_accepted_figure": true,
+  "independent_checks": [
+    {
+      "trait": "OCD",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "OCD",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "CAD",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "CAD",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "BIP",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "BIP",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "ADHD",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "ADHD",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "MDD",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "MDD",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "SCZ",
+      "window": "500kb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    },
+    {
+      "trait": "SCZ",
+      "window": "1mb",
+      "n_human": 48,
+      "mann_whitney_verified": true,
+      "cdf_verified": true,
+      "original_100_shift_reference_verified": true
+    }
+  ]
+}

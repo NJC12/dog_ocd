@@ -1,0 +1,11 @@
+index	SNP rows
+total	5918521
+nonautosomal	163673
+invalid_fields	0
+p_zero	0
+valid_autosomal	5754848
+unmapped	14
+ambiguous	0
+mapped_nonautosomal_or_invalid	0
+cross_chromosome_mapped	0
+mapped	5754834

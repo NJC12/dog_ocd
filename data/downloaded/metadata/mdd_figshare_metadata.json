@@ -1,0 +1,568 @@
+{
+  "files": [
+    {
+      "id": 52419692,
+      "name": "README.pgc-mdd2025.txt",
+      "size": 9022,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419692",
+      "supplied_md5": "d743266ab7da04276517d3d4e033052a",
+      "computed_md5": "d743266ab7da04276517d3d4e033052a",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51486983,
+      "name": "pgc-mdd2025_top10k_eur_v3-49-24-11.tsv.gz",
+      "size": 354541,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486983",
+      "supplied_md5": "3a8a4be4e78e90c539d96db5607cb9f7",
+      "computed_md5": "3a8a4be4e78e90c539d96db5607cb9f7",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51486986,
+      "name": "pgc-mdd2025_Clin_eur_v3.49.24.11.txt",
+      "size": 5466,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486986",
+      "supplied_md5": "4ad9e42b466c84a77e1f0a3d716722f5",
+      "computed_md5": "4ad9e42b466c84a77e1f0a3d716722f5",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51486989,
+      "name": "pgc-mdd2025_EHR_eur_v3.49.24.11.txt",
+      "size": 1976,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486989",
+      "supplied_md5": "befedeaf62ed44bf926865cc683b6594",
+      "computed_md5": "befedeaf62ed44bf926865cc683b6594",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51486992,
+      "name": "pgc-mdd2025_no23andMe_div_v3.49.46.01.txt",
+      "size": 10928,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486992",
+      "supplied_md5": "8e291601517a5aaebaf84b899fe7f1ca",
+      "computed_md5": "8e291601517a5aaebaf84b899fe7f1ca",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51486995,
+      "name": "pgc-mdd2025_no23andMe_eur_v3.49.24.11.txt",
+      "size": 8060,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486995",
+      "supplied_md5": "98e54d952a2806b62a4d6f36c3d19155",
+      "computed_md5": "98e54d952a2806b62a4d6f36c3d19155",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51486998,
+      "name": "pgc-mdd2025_no23andMe-noUKBB_eur_v3.49.24.11.txt",
+      "size": 7981,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51486998",
+      "supplied_md5": "3367c2fd90cba302b1e59f06e1448927",
+      "computed_md5": "3367c2fd90cba302b1e59f06e1448927",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51487001,
+      "name": "pgc-mdd2025_Quest_eur_v3.49.24.11.txt",
+      "size": 720,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487001",
+      "supplied_md5": "3dd2bc2fe3117d56719e28b7e48151cd",
+      "computed_md5": "3dd2bc2fe3117d56719e28b7e48151cd",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51487004,
+      "name": "pgc-mdd2025_top10k_eur_v3.49.24.11.txt",
+      "size": 8152,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487004",
+      "supplied_md5": "35314d7494d9a23c230bc4b75157317b",
+      "computed_md5": "35314d7494d9a23c230bc4b75157317b",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 51487010,
+      "name": "pgc-mdd2025_no23andMe_div_v3-49-46-01.tsv.gz",
+      "size": 195963903,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487010",
+      "supplied_md5": "919829e44688fe7b0d745199a7893746",
+      "computed_md5": "919829e44688fe7b0d745199a7893746",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51487013,
+      "name": "pgc-mdd2025_Clin_eur_v3-49-24-11.tsv.gz",
+      "size": 229009119,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487013",
+      "supplied_md5": "12a0accc1210d99ad99de0731373d489",
+      "computed_md5": "12a0accc1210d99ad99de0731373d489",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51487016,
+      "name": "pgc-mdd2025_EHR_eur_v3-49-24-11.tsv.gz",
+      "size": 223503971,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487016",
+      "supplied_md5": "e5861727edb791783ef33ca985772679",
+      "computed_md5": "e5861727edb791783ef33ca985772679",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51487019,
+      "name": "pgc-mdd2025_no23andMe_eur_v3-49-24-11.tsv.gz",
+      "size": 232895012,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487019",
+      "supplied_md5": "2b02d6123ecd7fdb12f82314c19c4952",
+      "computed_md5": "2b02d6123ecd7fdb12f82314c19c4952",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51487022,
+      "name": "pgc-mdd2025_no23andMe-noUKBB_eur_v3-49-24-11.tsv.gz",
+      "size": 225357893,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487022",
+      "supplied_md5": "29d3ce57cfce19ca28eb1643d9e2e428",
+      "computed_md5": "29d3ce57cfce19ca28eb1643d9e2e428",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51487025,
+      "name": "pgc-mdd2025_Quest_eur_v3-49-24-11.tsv.gz",
+      "size": 325241564,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51487025",
+      "supplied_md5": "59d2f87505fef9f8269504408ad111fb",
+      "computed_md5": "59d2f87505fef9f8269504408ad111fb",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51995549,
+      "name": "pgc-mdd2025_Quest_eur_v3-49-24-11.tsv.gz",
+      "size": 437,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51995549",
+      "supplied_md5": "63cabd95b42f77d141b8957f4e6a6411",
+      "computed_md5": "63cabd95b42f77d141b8957f4e6a6411",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51995552,
+      "name": "pgc-mdd2025_Quest-noUKBB_eur_v3-49-24-11.tsv.gz",
+      "size": 228594738,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51995552",
+      "supplied_md5": "a59c3aeebb0f94572e8f7c2a0e10fbce",
+      "computed_md5": "a59c3aeebb0f94572e8f7c2a0e10fbce",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 51999596,
+      "name": "pgc-mdd2025_Quest_eur_v3-49-24-11.tsv.gz",
+      "size": 325241564,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/51999596",
+      "supplied_md5": "59d2f87505fef9f8269504408ad111fb",
+      "computed_md5": "59d2f87505fef9f8269504408ad111fb",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371866,
+      "name": "daner_pgc_mdd_top10k_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 420555,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371866",
+      "supplied_md5": "ba0354f740efa4e89bcd8ed012f4a9f8",
+      "computed_md5": "ba0354f740efa4e89bcd8ed012f4a9f8",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371869,
+      "name": "daner_pgc_mdd_no23andMe_div_hg19_v3.49.46.01.neff.gz",
+      "size": 230278502,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371869",
+      "supplied_md5": "ef95cfb564a0413c3345bac4823372ff",
+      "computed_md5": "ef95cfb564a0413c3345bac4823372ff",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371872,
+      "name": "daner_pgc_mdd_EHR_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 240247058,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371872",
+      "supplied_md5": "d52a46125526200b01e98b616a6c00ce",
+      "computed_md5": "d52a46125526200b01e98b616a6c00ce",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371875,
+      "name": "daner_pgc_mdd_Quest_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 300966630,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371875",
+      "supplied_md5": "798953bbba3f81de62b2442a559f9018",
+      "computed_md5": "798953bbba3f81de62b2442a559f9018",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371878,
+      "name": "daner_pgc_mdd_no23andMe_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 267142134,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371878",
+      "supplied_md5": "0a046664c4bb602ac0e6910b48eabd2f",
+      "computed_md5": "0a046664c4bb602ac0e6910b48eabd2f",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371881,
+      "name": "daner_pgc_mdd_no23andMe-noUKBB_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 255879352,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371881",
+      "supplied_md5": "5eb0cc6dfe21338d04a03797d5c9ae01",
+      "computed_md5": "5eb0cc6dfe21338d04a03797d5c9ae01",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52371884,
+      "name": "daner_pgc_mdd_Clin_eur_hg19_v3.49.24.11.neff.gz",
+      "size": 263204596,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52371884",
+      "supplied_md5": "0099f33ead2b632862ed45a00de8603e",
+      "computed_md5": "0099f33ead2b632862ed45a00de8603e",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419686,
+      "name": "mdd2025-ssf.json",
+      "size": 7171,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419686",
+      "supplied_md5": "36462682b2ab1e576df4399e4a5c86a1",
+      "computed_md5": "36462682b2ab1e576df4399e4a5c86a1",
+      "mimetype": "application/json"
+    },
+    {
+      "id": 52419689,
+      "name": "mdd2025-ssf.txt",
+      "size": 791,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419689",
+      "supplied_md5": "0a73ed444d2904bf575f8e53c7054937",
+      "computed_md5": "0a73ed444d2904bf575f8e53c7054937",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 52419698,
+      "name": "pgc-mdd2025_top10k_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 350093,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419698",
+      "supplied_md5": "3ec222983bc7aa241fb6f7192b9e7d57",
+      "computed_md5": "3ec222983bc7aa241fb6f7192b9e7d57",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419701,
+      "name": "pgc-mdd2025_no23andMe_div_v3-49-46-01_formatted.tsv.gz",
+      "size": 196796086,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419701",
+      "supplied_md5": "944727fb667485809c9ac5fcca23b0ef",
+      "computed_md5": "944727fb667485809c9ac5fcca23b0ef",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419704,
+      "name": "pgc-mdd2025_no23andMe_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 233816353,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419704",
+      "supplied_md5": "9dc86e3e4ff6f81fb46b4b5577335d9e",
+      "computed_md5": "9dc86e3e4ff6f81fb46b4b5577335d9e",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419707,
+      "name": "pgc-mdd2025_Clin_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 229597109,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419707",
+      "supplied_md5": "d16fae90bff502a35c4206cab37e51bc",
+      "computed_md5": "d16fae90bff502a35c4206cab37e51bc",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419710,
+      "name": "pgc-mdd2025_no23andMe-noUKBB_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 226328069,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419710",
+      "supplied_md5": "f598455b77fd4ff75a6eb17d3ac664a8",
+      "computed_md5": "f598455b77fd4ff75a6eb17d3ac664a8",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419713,
+      "name": "pgc-mdd2025_EHR_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 224158690,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419713",
+      "supplied_md5": "6a021665cb74a87b98a9f11823451f4d",
+      "computed_md5": "6a021665cb74a87b98a9f11823451f4d",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419716,
+      "name": "pgc-mdd2025_Quest-noUKBB_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 229598386,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419716",
+      "supplied_md5": "8bebb61f51c9b62d13d9ebf5d4e79711",
+      "computed_md5": "8bebb61f51c9b62d13d9ebf5d4e79711",
+      "mimetype": "application/gzip"
+    },
+    {
+      "id": 52419719,
+      "name": "pgc-mdd2025_Quest_eur_v3-49-24-11_formatted.tsv.gz",
+      "size": 327127906,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52419719",
+      "supplied_md5": "d2ca6fbb89f52888638f1b6223ed8f8b",
+      "computed_md5": "d2ca6fbb89f52888638f1b6223ed8f8b",
+      "mimetype": "application/gzip"
+    }
+  ],
+  "folder_structure": {
+    "51486983": "",
+    "51486986": "",
+    "51486989": "",
+    "51486992": "",
+    "51486995": "",
+    "51486998": "",
+    "51487001": "",
+    "51487004": "",
+    "51487010": "",
+    "51487013": "",
+    "51487016": "",
+    "51487019": "",
+    "51487022": "",
+    "51487025": "",
+    "51995549": "",
+    "51995552": "",
+    "51999596": "",
+    "52371866": "daner",
+    "52371869": "daner",
+    "52371872": "daner",
+    "52371875": "daner",
+    "52371878": "daner",
+    "52371881": "daner",
+    "52371884": "daner",
+    "52419686": "",
+    "52419689": "",
+    "52419692": "",
+    "52419698": "ssf",
+    "52419701": "ssf",
+    "52419704": "ssf",
+    "52419707": "ssf",
+    "52419710": "ssf",
+    "52419713": "ssf",
+    "52419716": "ssf",
+    "52419719": "ssf"
+  },
+  "authors": [
+    {
+      "id": 748366,
+      "full_name": "Mark James Adams",
+      "first_name": "Mark James",
+      "last_name": "Adams",
+      "is_active": true,
+      "url_name": "Mark_James_Adams",
+      "orcid_id": "0000-0002-3599-6018"
+    },
+    {
+      "id": 4097881,
+      "full_name": "Cathryn Lewis",
+      "first_name": "Cathryn",
+      "last_name": "Lewis",
+      "is_active": true,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 769871,
+      "full_name": "Andrew Mcintosh",
+      "first_name": "Andrew",
+      "last_name": "Mcintosh",
+      "is_active": true,
+      "url_name": "Andrew_Mcintosh",
+      "orcid_id": "0000-0002-0198-4588"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/GWAS_summary_statistics_for_major_depression_PGC_MDD2025_/27061255",
+  "download_disabled": false,
+  "description": "<h3>Genome-wide summary statistics of major depression from the Psychiatric Genomics Consortium (2025)</h3><p><br></p><p dir=\"ltr\">Meta-analysed summary statistics for:</p><ul><li>Multi-ancestries, excluding 23andMe [DIV]</li><li>European-ancestries, excluding 23andMe [EUR]</li><li>European ancestries, excluding 23andMe and UK Biobank [EUR]</li><li>European ancestries, top 10k SNPs [EUR]</li><li>Clinical/interview phenotypes [EUR]</li><li>Electronic health record / register phenotypes [EUR]</li><li>Questionnaire symptom phenotypes [EUR]</li><li>Questionnaire symptom phenotypes, excluding UK Biobank [EUR]</li></ul><p dir=\"ltr\">Files:</p><ul><li><b>*.tsv.gz</b><b>:</b> summary statistics with rich header information</li><li><b>*.txt:</b> meta information for cohorts included in each meta-analysis (tab-separated)</li><li><b>daner/daner_*.gz:</b> summary statistics in daner format</li><li><b>ssf/*_formatted.tsv.gz:</b> summary statistics in GWAS-SSF</li></ul><p dir=\"ltr\"><br></p>",
+  "funding": "MH124873",
+  "funding_list": [
+    {
+      "id": 25906009,
+      "title": "MH124873",
+      "grant_code": "",
+      "funder_name": null,
+      "is_user_defined": 1
+    },
+    {
+      "id": 25906012,
+      "title": "MH124871",
+      "grant_code": "",
+      "funder_name": null,
+      "is_user_defined": 1
+    }
+  ],
+  "version": 5,
+  "status": "public",
+  "size": 5212134528,
+  "created_date": "2026-05-27T09:27:22Z",
+  "modified_date": "2026-05-27T09:27:23Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "major depression",
+    "major depressive disorder",
+    "genome-wide association study",
+    "meta-analysis"
+  ],
+  "keywords": [
+    "major depression",
+    "major depressive disorder",
+    "genome-wide association study",
+    "meta-analysis"
+  ],
+  "categories": [
+    {
+      "id": 24538,
+      "title": "Psychiatry (incl. psychotherapy)",
+      "parent_id": 24475,
+      "path": "/24457/24475/24538",
+      "source_id": "320221",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24310,
+      "title": "Genomics",
+      "parent_id": 24283,
+      "path": "/24130/24283/24310",
+      "source_id": "310509",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [
+    "https://github.com/psychiatric-genomics-consortium/mdd-wave3-meta",
+    "https://doi.org/10.6084/m9.figshare.27089614",
+    "https://doi.org/10.1016/j.cell.2024.12.002",
+    "https://doi.org/10.5281/zenodo.11935051",
+    "https://doi.org/10.1101/2024.04.29.24306535"
+  ],
+  "has_linked_file": false,
+  "citation": "Adams, Mark James; Lewis, Cathryn; Mcintosh, Andrew (2025). GWAS summary statistics for major depression (PGC MDD2025). figshare. Dataset. https://doi.org/10.6084/m9.figshare.27061255.v5",
+  "related_materials": [
+    {
+      "id": 208635409,
+      "identifier": "https://github.com/psychiatric-genomics-consortium/mdd-wave3-meta",
+      "title": "Code repository",
+      "relation": "IsDescribedBy",
+      "identifier_type": "URL",
+      "is_linkout": true,
+      "link": "https://github.com/psychiatric-genomics-consortium/mdd-wave3-meta"
+    },
+    {
+      "id": 211779098,
+      "identifier": "10.6084/m9.figshare.27089614",
+      "title": "Supplementary results",
+      "relation": "IsSupplementedBy",
+      "identifier_type": "DOI",
+      "is_linkout": false,
+      "link": "https://doi.org/10.6084/m9.figshare.27089614"
+    },
+    {
+      "id": 212395949,
+      "identifier": "10.1016/j.cell.2024.12.002",
+      "title": "Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies",
+      "relation": "IsDescribedBy",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.1016/j.cell.2024.12.002"
+    },
+    {
+      "id": 212395952,
+      "identifier": "10.5281/zenodo.11935051",
+      "title": "Code deposit",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": false,
+      "link": "https://doi.org/10.5281/zenodo.11935051"
+    },
+    {
+      "id": 212395955,
+      "identifier": "10.1101/2024.04.29.24306535",
+      "title": "Genome-wide study of major depression in 685,808 diverse individuals identifies 697 independent associations, infers causal neuronal subtypes and biological targets for novel pharmacotherapies (preprint)",
+      "relation": "IsDescribedBy",
+      "identifier_type": "DOI",
+      "is_linkout": false,
+      "link": "https://doi.org/10.1101/2024.04.29.24306535"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 27061255,
+  "title": "GWAS summary statistics for major depression (PGC MDD2025)",
+  "doi": "10.6084/m9.figshare.27061255.v5",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/27061255",
+  "published_date": "2026-05-27T09:27:22Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/27061255",
+  "url_public_api": "https://api.figshare.com/v2/articles/27061255",
+  "url_private_html": "https://figshare.com/account/articles/27061255",
+  "url_public_html": "https://figshare.com/articles/dataset/GWAS_summary_statistics_for_major_depression_PGC_MDD2025_/27061255",
+  "timeline": {
+    "posted": "2026-05-27T09:27:22",
+    "firstOnline": "2025-01-14"
+  },
+  "resource_title": "",
+  "resource_doi": ""
+}

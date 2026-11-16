@@ -1,0 +1,15 @@
+ST6 human constraint analysis: all 87 Dog and 48 Human genes, before TOGA restriction, using human Agarwal s_het estimates. COL6A5 lacks an estimate, leaving 86 Dog and 48 Human genes for analysis. Posterior means are integrated on the linear scale from densities supplied on a log10 grid. The group test is two-sided asymptotic Mann–Whitney with tie and continuity corrections. The regression pools individual genes in the plotted log-transformed coordinates. Marginal densities use Gaussian KDE with Scott's bandwidth separately by group; they describe point estimates and do not propagate posterior uncertainty.
+
+Rows: 1. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+n_dog: Number of ST6 genes in this group with available human constraint estimates.
+n_human: Number of ST6 genes in this group with available human constraint estimates.
+U_dog: Mann–Whitney U for Dog versus Human posterior mean s_het.
+p_two_sided: Two-sided asymptotic Mann–Whitney p-value comparing Dog and Human s_het.
+probability_dog_greater: Probability a Dog gene's posterior mean s_het exceeds a Human gene's, counting ties as one-half.
+median_shet_dog: Median posterior mean s_het among available ST6 Dog genes.
+median_shet_human: Median posterior mean s_het among ST6 Human genes.
+median_rank_dog: Median pooled s_het rank among available ST6 Dog genes.
+median_rank_human: Median pooled s_het rank among ST6 Human genes.
+method: Statistical method and settings.

@@ -1,0 +1,9 @@
+First five rows of this psychiatric GWAS input, with source column names retained. CHR/chromosome gives chromosome, BP/POS/base_pair_location gives the source 1-based GRCh37 position, SNP/ID/rsid the variant identifier, and P/PVAL/p_value the association p-value where present. This is an input preview.
+
+Rows: 5. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+SNP: SNP; see the table context above.
+CHR: CHR; see the table context above.
+BP: BP; see the table context above.
+P: P; see the table context above.

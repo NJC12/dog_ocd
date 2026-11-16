@@ -1,0 +1,212 @@
+{
+  "source": "https://figshare.com/articles/dataset/bip2024/27216117?file=49760775",
+  "filename": "bip2024_multianc_no23andMe.gz",
+  "md5": "6615ee8a7c6443df124848d17ba1336e",
+  "chain_md5": "9267c9fef79b54962da8efadd0ddf6b6",
+  "scores_md5": "32955c4668f017e0ed00249d24e3e693",
+  "input_coordinates": "1-based GRCh37 (hg19)",
+  "coordinate_system": "1-based GRCh38",
+  "gwas": {
+    "counts": {
+      "total": 6360788,
+      "nonautosomal": 0,
+      "invalid_fields": 0,
+      "p_zero": 0,
+      "valid_autosomal": 6360788,
+      "unmapped": 3014,
+      "ambiguous": 0,
+      "mapped_nonautosomal_or_invalid": 117,
+      "cross_chromosome_mapped": 4,
+      "mapped": 6357657
+    },
+    "samples": [
+      {
+        "chrom": "7",
+        "grch37": 92383888,
+        "grch38_chrom": "7",
+        "grch38": 92754574,
+        "snp": "rs10"
+      },
+      {
+        "chrom": "7",
+        "grch37": 40590569,
+        "grch38_chrom": "7",
+        "grch38": 40550970,
+        "snp": "rs1000013"
+      },
+      {
+        "chrom": "7",
+        "grch37": 132097016,
+        "grch38_chrom": "7",
+        "grch38": 132412257,
+        "snp": "rs1000058"
+      },
+      {
+        "chrom": "7",
+        "grch37": 132097005,
+        "grch38_chrom": "7",
+        "grch38": 132412246,
+        "snp": "rs1000059"
+      },
+      {
+        "chrom": "7",
+        "grch37": 157644121,
+        "grch38_chrom": "7",
+        "grch38": 157851429,
+        "snp": "rs1000136"
+      },
+      {
+        "chrom": "7",
+        "grch37": 157644152,
+        "grch38_chrom": "7",
+        "grch38": 157851460,
+        "snp": "rs1000137"
+      },
+      {
+        "chrom": "7",
+        "grch37": 131323797,
+        "grch38_chrom": "7",
+        "grch38": 131639038,
+        "snp": "rs1000202"
+      },
+      {
+        "chrom": "7",
+        "grch37": 123335078,
+        "grch38_chrom": "7",
+        "grch38": 123695024,
+        "snp": "rs1000204"
+      },
+      {
+        "chrom": "7",
+        "grch37": 22072864,
+        "grch38_chrom": "7",
+        "grch38": 22033246,
+        "snp": "rs1000240"
+      },
+      {
+        "chrom": "7",
+        "grch37": 22072933,
+        "grch38_chrom": "7",
+        "grch38": 22033315,
+        "snp": "rs1000241"
+      },
+      {
+        "chrom": "7",
+        "grch37": 89705492,
+        "grch38_chrom": "7",
+        "grch38": 90076178,
+        "snp": "rs10002499"
+      },
+      {
+        "chrom": "7",
+        "grch37": 132301953,
+        "grch38_chrom": "7",
+        "grch38": 132617194,
+        "snp": "rs1000293"
+      },
+      {
+        "chrom": "7",
+        "grch37": 27609288,
+        "grch38_chrom": "7",
+        "grch38": 27569669,
+        "snp": "rs1000317"
+      },
+      {
+        "chrom": "7",
+        "grch37": 135543143,
+        "grch38_chrom": "7",
+        "grch38": 135858395,
+        "snp": "rs1000433"
+      },
+      {
+        "chrom": "7",
+        "grch37": 65777909,
+        "grch38_chrom": "7",
+        "grch38": 66312922,
+        "snp": "rs1000464"
+      },
+      {
+        "chrom": "7",
+        "grch37": 30937178,
+        "grch38_chrom": "7",
+        "grch38": 30897563,
+        "snp": "rs1000597"
+      },
+      {
+        "chrom": "7",
+        "grch37": 82690689,
+        "grch38_chrom": "7",
+        "grch38": 83061373,
+        "snp": "rs1000651"
+      },
+      {
+        "chrom": "7",
+        "grch37": 129015511,
+        "grch38_chrom": "7",
+        "grch38": 129375670,
+        "snp": "rs1000676"
+      },
+      {
+        "chrom": "7",
+        "grch37": 94222724,
+        "grch38_chrom": "7",
+        "grch38": 94593412,
+        "snp": "rs1000714"
+      },
+      {
+        "chrom": "7",
+        "grch37": 77762980,
+        "grch38_chrom": "7",
+        "grch38": 78133663,
+        "snp": "rs1000773"
+      }
+    ]
+  },
+  "genes_total": 19166,
+  "dog_eligible": 83,
+  "windows": {
+    "1mb": {
+      "width_each_side_bp": 1000000,
+      "genes_covered": 19143,
+      "dog_covered": 83,
+      "tests": {
+        "all": {
+          "n": 83,
+          "observed_mean_rank": 0.5299620983426849,
+          "null_mean": 0.502695391577456,
+          "empirical_one_sided_p": 0.7085291470852915,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 43,
+          "observed_mean_rank": 0.5793060257578874,
+          "null_mean": 0.5029286064566628,
+          "empirical_one_sided_p": 0.823917608239176,
+          "permutations": 10000
+        }
+      }
+    },
+    "500kb": {
+      "width_each_side_bp": 500000,
+      "genes_covered": 19119,
+      "dog_covered": 83,
+      "tests": {
+        "all": {
+          "n": 83,
+          "observed_mean_rank": 0.4972660149010739,
+          "null_mean": 0.502752462478974,
+          "empirical_one_sided_p": 0.45585441455854414,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 43,
+          "observed_mean_rank": 0.5253156682327095,
+          "null_mean": 0.5026770330337359,
+          "empirical_one_sided_p": 0.6063393660633937,
+          "permutations": 10000
+        }
+      }
+    }
+  },
+  "dog_orthology_source": "ST6 TOGA 1:1"
+}

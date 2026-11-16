@@ -1,0 +1,18 @@
+bip2024_figshare_metadata.json
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+API URL: https://api.figshare.com/v2/articles/27216117
+Dataset URL: https://figshare.com/articles/dataset/bip2024/27216117
+Recorded DOI/version: 10.6084/m9.figshare.27216117.v2
+Recorded source published_date: 2025-01-31T19:38:30Z
+The snapshot itself does not record the local API retrieval date.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Retained Figshare public API JSON response for dataset bip2024. Includes dataset DOI/version, publication metadata, descriptions, authors, files, download URLs, file sizes, checksums and source licensing fields. It may list source files not downloaded into this project. This is external source metadata, not an analysis result.
+
+Local identity checksum
+SHA-256: 00c1be34510a405707273139bdee563a85d201af9ecd62bb593d7860d1f73268
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

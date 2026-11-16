@@ -1,0 +1,9 @@
+The 83 selected TOGA one-to-one dog-to-human orthologs and their significant/suggestive dog GWAS categories.
+
+Rows: 83. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Gene*: Original ST6 dog gene symbol.
+human_symbol: Mapped human ortholog gene symbol.
+human_gene_id: Mapped GENCODE human Ensembl gene identifier.
+dogCD significance: ST6 significant or suggestive dog GWAS category.

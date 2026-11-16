@@ -1,0 +1,10 @@
+ST6 human constraint analysis: all 87 Dog and 48 Human genes, before TOGA restriction, using human Agarwal s_het estimates. COL6A5 lacks an estimate, leaving 86 Dog and 48 Human genes for analysis. Posterior means are integrated on the linear scale from densities supplied on a log10 grid. The group test is two-sided asymptotic Mann–Whitney with tie and continuity corrections. The regression pools individual genes in the plotted log-transformed coordinates. Marginal densities use Gaussian KDE with Scott's bandwidth separately by group; they describe point estimates and do not propagate posterior uncertainty.
+
+Rows: 1. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+n: Number of individual genes used in the fit.
+slope: Pooled OLS slope in the displayed log-transformed coordinates.
+intercept: Pooled OLS intercept in the displayed log-transformed coordinates.
+r_squared: Fraction of displayed y-axis variance explained by the pooled OLS fit.
+method: Statistical method and settings.

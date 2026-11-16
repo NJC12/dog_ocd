@@ -1,0 +1,266 @@
+{
+  "checked": "2026-11-16",
+  "source": "https://www.biorxiv.org/content/10.64898/2026.10.12.758413v1.supplementary-material",
+  "original_sha256": "b2163f561cc64407972bc9fe75caddf3f4b758772eabdc342fc475f49478f972",
+  "public_download_sha256": "31f317764fbd39538ca9e07bd8543d3afa2744205cca9667a6d9a41447d5f707",
+  "sheet_comparisons": [
+    {
+      "sheet": "Index",
+      "original_cells": 52,
+      "public_cells": 52,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST1",
+      "original_cells": 254,
+      "public_cells": 254,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST2",
+      "original_cells": 210,
+      "public_cells": 210,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST3",
+      "original_cells": 178,
+      "public_cells": 178,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST4",
+      "original_cells": 199,
+      "public_cells": 199,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST5",
+      "original_cells": 1515,
+      "public_cells": 1515,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST6",
+      "original_cells": 1108,
+      "public_cells": 1108,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST7",
+      "original_cells": 496,
+      "public_cells": 496,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST8",
+      "original_cells": 78031,
+      "public_cells": 78031,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST9",
+      "original_cells": 114,
+      "public_cells": 114,
+      "different_cells": 4,
+      "examples": [
+        [
+          "F5",
+          "=2.24E-13",
+          "=0.000000000000224"
+        ],
+        [
+          "F8",
+          "=2.75E-12",
+          "=0.00000000000275"
+        ],
+        [
+          "G5",
+          "=4.14E-12",
+          "=0.00000000000414"
+        ],
+        [
+          "G8",
+          "=4.07E-11",
+          "=0.0000000000407"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST10",
+      "original_cells": 80,
+      "public_cells": 80,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST11",
+      "original_cells": 82708,
+      "public_cells": 82708,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST12",
+      "original_cells": 4177,
+      "public_cells": 4177,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 12 | Significant MP-terms for the OCD/dogCD hieararchy",
+          "Supplementary Table 12 | Significant MP-terms for the OCD/dogCD hiearchy"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST13",
+      "original_cells": 28,
+      "public_cells": 28,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST14",
+      "original_cells": 76,
+      "public_cells": 76,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST15",
+      "original_cells": 21783,
+      "public_cells": 21783,
+      "different_cells": 1,
+      "examples": [
+        [
+          "J491",
+          4.91e-06,
+          4.9100000000000004e-06
+        ]
+      ]
+    },
+    {
+      "sheet": "ST16",
+      "original_cells": 31,
+      "public_cells": 31,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST17",
+      "original_cells": 16,
+      "public_cells": 16,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST18",
+      "original_cells": 31,
+      "public_cells": 31,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST19",
+      "original_cells": 59,
+      "public_cells": 59,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "cCREM Supplementary Table 19 | Tn5 assembly oligonucleotides and indexed adapters",
+          "Supplementary Table 19 | Tn5 assembly oligonucleotides and indexed adapters"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST20",
+      "original_cells": 350,
+      "public_cells": 350,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 20 | ATAC-seq input amounts. PCR cycles. library concentrations and fragment sizes",
+          "Supplementary Table 20 | ATAC-seq input amounts, PCR cycles, library concentrations and fragment sizes"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST21",
+      "original_cells": 51,
+      "public_cells": 51,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 21 | CUT&RUN and ChIP iantibodies. controls. lots and reaction conditions",
+          "Supplementary Table 21 | CUT&RUN and ChIP antibodies, controls, lots and reaction conditions"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST22",
+      "original_cells": 826,
+      "public_cells": 826,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 22 | CUT&RUN library yields. fragment sizes and quality-control metrics",
+          "Supplementary Table 22 | CUT&RUN library yields, fragment sizes and quality-control metrics"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST23",
+      "original_cells": 913,
+      "public_cells": 913,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 23 | ChIP-seq sonication. immunoprecipitation and library-quality-control metrics",
+          "Supplementary Table 23 | ChIP-seq sonication, immunoprecipitation and library-quality-control metrics"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST24",
+      "original_cells": 1663,
+      "public_cells": 1663,
+      "different_cells": 1,
+      "examples": [
+        [
+          "A1",
+          "Supplementary Table 24 | Sequencing depth. alignment. filtering. complexity and peak-calling metrics",
+          "Supplementary Table 24 | Sequencing depth, alignment, filtering, complexity and peak-calling metrics"
+        ]
+      ]
+    },
+    {
+      "sheet": "ST25",
+      "original_cells": 241,
+      "public_cells": 241,
+      "different_cells": 0,
+      "examples": []
+    },
+    {
+      "sheet": "ST26",
+      "original_cells": 51,
+      "public_cells": 51,
+      "different_cells": 0,
+      "examples": []
+    }
+  ]
+}

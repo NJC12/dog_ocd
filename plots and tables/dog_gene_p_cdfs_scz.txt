@@ -1,0 +1,9 @@
+Dog-gene associations in human OCD and schizophrenia (SCZ) GWAS
+
+The dog set contains 83 ST6 TOGA one-to-one human orthologs: 43 genes from significant dog GWAS loci and 40 from suggestive dog GWAS loci. The plotted associations are from human GWAS.
+
+Each gene's association is its minimum GWAS SNP p-value within an inclusive window extending ±1 Mb or ±500 kb from its GENCODE transcription start site (TSS). Only covered autosomal protein-coding genes, with at least one valid SNP in the relevant window, receive an association score.
+
+Rows show OCD (top) and the comparison trait (bottom); columns show ±1 Mb (left) and ±500 kb (right). The x-axis is log10 of a p-value cutoff. The y-axis is the fraction of dog genes whose minimum window p-value is no greater than that cutoff. Curves that rise farther left indicate stronger associations. Gray denotes all 83 dog genes, orange the 43 significant genes, and blue the 40 suggestive genes. These are raw window minimum p-values, without adjustment for the number of SNPs per window.
+
+These curves and distributions summarize gene-level association scores; they do not establish causality. Nearby genes can share SNPs and are not independent observations. Dog-gene selection used human OCD results, so the OCD comparison is exploratory rather than independent replication.

@@ -1,0 +1,2 @@
+n_dog	n_human	U_dog	p_two_sided	probability_dog_greater	median_shet_dog	median_shet_human	median_rank_dog	median_rank_human	method
+86	48	2268.0	0.3450071259415975	0.5494186046511628	0.0415423267817919	0.0114332762758436	64.5	78.5	two-sided asymptotic Mann-Whitney U; tie and continuity correction

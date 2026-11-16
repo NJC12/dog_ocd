@@ -1,0 +1,7 @@
+window,dog_set,genome_wide,additional_at_5e-6,neither,total_below_5e-6,genes_tested
+1mb,combined,0,5,73,5,78
+1mb,significant,0,3,36,3,39
+1mb,suggestive,0,2,37,2,39
+500kb,combined,0,2,76,2,78
+500kb,significant,0,1,38,1,39
+500kb,suggestive,0,1,38,1,39

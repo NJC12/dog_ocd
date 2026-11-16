@@ -1,0 +1,15 @@
+GCST90132314.h.tsv.gz-meta.yaml
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90132001-GCST90133000/GCST90132314/harmonised/GCST90132314.h.tsv.gz-meta.yaml
+Provenance is recorded in the project methods/README or local Figshare API snapshot.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+GWAS Catalog published metadata for harmonised CAD accession GCST90132314. Includes author notes, harmonisation status, MD5, sample metadata, and harmonised GRCh38/1-based coordinate declaration. Author notes also discuss original GRCh37 markername coordinates; analysis uses the harmonised coordinate columns. Metadata last modified 2025-01-14.
+
+Local identity checksum
+SHA-256: 548fe3f198e5a50d98c836f3009190f4cb510c4368e192597e653e938061489f
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

@@ -1,0 +1,9 @@
+First five rows of the human CAD GWAS input. chromosome and base_pair_location specify 1-based GRCh38 coordinates, rsid is the variant identifier, and p_value is the association p-value. This is an input preview.
+
+Rows: 5. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+chromosome: chromosome; see the table context above.
+base_pair_location: base pair location; see the table context above.
+p_value: p value; see the table context above.
+rsid: rsid; see the table context above.

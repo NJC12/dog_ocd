@@ -1,0 +1,26 @@
+ST6 human constraint analysis: all 87 Dog and 48 Human genes, before TOGA restriction, using human Agarwal s_het estimates. COL6A5 lacks an estimate, leaving 86 Dog and 48 Human genes for analysis. Posterior means are integrated on the linear scale from densities supplied on a log10 grid. The group test is two-sided asymptotic Mann–Whitney with tie and continuity corrections. The regression pools individual genes in the plotted log-transformed coordinates. Marginal densities use Gaussian KDE with Scott's bandwidth separately by group; they describe point estimates and do not propagate posterior uncertainty.
+
+Rows: 135. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+st6_symbol: Gene symbol as recorded in supplementary table ST6.
+group: ST6 Dog or Human gene-set label; both use human constraint estimates.
+toga: Orthology label as supplied in ST6.
+dog_significance: Significant or suggestive ST6 dog GWAS category.
+human_symbol: Mapped human ortholog gene symbol.
+agarwal_symbol: Gene symbol used to retrieve the Agarwal posterior.
+shet_mapping_evidence: Evidence for the ST6-to-Agarwal gene-symbol mapping.
+Ensembl_transcript_id: Ensembl transcript identifier supplied by Agarwal.
+agarwal_chromosome_group: Chromosome category supplied by Agarwal.
+posterior_column: Column identifying this gene in its source posterior-density file.
+shet_posterior_mean: Mean of the human Agarwal s_het posterior, integrated on the linear s_het scale.
+density_integral: Numerical integral of the supplied posterior density on its log10(s_het) grid.
+posterior_file: Source file containing the gene's posterior density.
+shet_status: Whether an Agarwal constraint estimate was available.
+gene_id: GENCODE human Ensembl gene identifier.
+min_p_500kb: Minimum SNP p-value in the ±500 kb TSS window.
+n_snps_500kb: Number of valid SNPs in the ±500 kb TSS window.
+in_previous_78_dog_set: Legacy 78-gene Ensembl-confirmed dog membership; not the current TOGA selection.
+neg_log10_p_500kb: Negative base-10 logarithm of the minimum OCD ±500 kb window p-value.
+shet_rank: Pooled rank by posterior mean human s_het, highest first, average ranks for ties.
+log10_shet: Base-10 logarithm of the posterior mean s_het.

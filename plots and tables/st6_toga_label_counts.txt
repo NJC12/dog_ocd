@@ -1,0 +1,7 @@
+Counts of original ST6 Dog genes by their supplied TOGA orthology label, before the one-to-one restriction.
+
+Rows: 2. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+ST6 TOGA label: Orthology label supplied in ST6.
+Genes: Number of ST6 genes with this orthology label.

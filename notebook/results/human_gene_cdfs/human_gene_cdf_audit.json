@@ -1,0 +1,118 @@
+{
+  "gene_set": "All 48 rows with Species == Human in ST6, header row 2",
+  "symbol_mapping": "Exact symbols; no aliases, orthology filters, or exclusions",
+  "method": "Same genome-wide covered-gene ranks as section 4E; minimum SNP p-value in inclusive GENCODE TSS windows; strongest rank 1; average tied ranks; empirical CDF across the 48 ST6 Human genes",
+  "validation": "All saved genome-wide ranks independently checked by sorted-array insertion positions; identical 48 human gene IDs in all 12 series",
+  "statistical_tests": "None; this task creates descriptive CDFs only",
+  "notebook_unchanged": true,
+  "inputs_sha256": {
+    "NATURE_SupplementaryTables.xlsx": "b2163f561cc64407972bc9fe75caddf3f4b758772eabdc342fc475f49478f972",
+    "notebook/results/ipynb/mann_whitney_gene_ranks.csv": "1a50ec44dc8b1c457a6f92f6022262e11ef0988d440202b2726097bb5202bb6e",
+    "dog_ocd_analysis.ipynb": "2dcb98ca8a0dad187d3206b5a141b98ec868f72fdee25a0e1ad0da2f8b351737"
+  },
+  "environment": {
+    "python": "3.12.12",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "matplotlib": "3.10.9"
+  },
+  "series": [
+    {
+      "trait": "OCD",
+      "window": "500kb",
+      "n_covered_background": 19119,
+      "n_human": 48,
+      "median_human_rank": 326.75,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "OCD",
+      "window": "1mb",
+      "n_covered_background": 19144,
+      "n_human": 48,
+      "median_human_rank": 506.5,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "CAD",
+      "window": "500kb",
+      "n_covered_background": 19166,
+      "n_human": 48,
+      "median_human_rank": 4702.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "CAD",
+      "window": "1mb",
+      "n_covered_background": 19166,
+      "n_human": 48,
+      "median_human_rank": 6835.5,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "BIP",
+      "window": "500kb",
+      "n_covered_background": 19119,
+      "n_human": 48,
+      "median_human_rank": 3914.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "BIP",
+      "window": "1mb",
+      "n_covered_background": 19143,
+      "n_human": 48,
+      "median_human_rank": 5261.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "ADHD",
+      "window": "500kb",
+      "n_covered_background": 19126,
+      "n_human": 48,
+      "median_human_rank": 3830.5,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "ADHD",
+      "window": "1mb",
+      "n_covered_background": 19145,
+      "n_human": 48,
+      "median_human_rank": 5045.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "MDD",
+      "window": "500kb",
+      "n_covered_background": 19115,
+      "n_human": 48,
+      "median_human_rank": 282.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "MDD",
+      "window": "1mb",
+      "n_covered_background": 19136,
+      "n_human": 48,
+      "median_human_rank": 542.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "SCZ",
+      "window": "500kb",
+      "n_covered_background": 19160,
+      "n_human": 48,
+      "median_human_rank": 1927.0,
+      "missing_human_symbols": []
+    },
+    {
+      "trait": "SCZ",
+      "window": "1mb",
+      "n_covered_background": 19165,
+      "n_human": 48,
+      "median_human_rank": 2956.0,
+      "missing_human_symbols": []
+    }
+  ]
+}

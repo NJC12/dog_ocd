@@ -1,0 +1,9 @@
+First five rows of the human OCD GWAS input: CHR is chromosome, SNP the variant identifier, BP the 1-based GRCh37 position, and P the association p-value. This is an input preview, not a full result table.
+
+Rows: 5. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+CHR: CHR; see the table context above.
+SNP: SNP; see the table context above.
+BP: BP; see the table context above.
+P: P; see the table context above.

@@ -1,0 +1,14 @@
+gene_to_ensembl_id_map.txt
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Retained external reference associated with the Agarwal human loss-of-function fitness-effects resource. Related publication: https://elifesciences.org/articles/83172. Related author repository: https://github.com/agarwal-i/loss-of-function-fitness-effects. The exact download URL, source commit/version and acquisition date for this local mapping are not recorded; its origin from a specific repository path has not been independently verified.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Tab-separated reference mapping with Gene and Ensembl_transcript_id fields and 19,704 gene mapping records (plus header). This reference supports interpretation of Agarwal constraint gene/transcript naming; the current analysis resolves aliases using the source summary and annotation rather than reading this file directly.
+
+Local identity checksum
+SHA-256: 639be678ae928169d861e8832611854ccf346b12ee9e84b984e779d70edc6ba3
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

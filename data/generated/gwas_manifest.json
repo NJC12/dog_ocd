@@ -1,0 +1,38 @@
+[
+  {
+    "trait": "OCD",
+    "path": "data/downloaded/gwas/daner_OCD_full_wo23andMe_190522.gz",
+    "md5": "9ab61cb7412c42a0ba207856af6da0f8",
+    "bytes": 309646832
+  },
+  {
+    "trait": "CAD",
+    "path": "data/downloaded/gwas/GCST90132314.h.tsv.gz",
+    "md5": "82e19c1817c52d5a94c8f42d9f48ccd0",
+    "bytes": 1300497824
+  },
+  {
+    "trait": "BIP",
+    "path": "data/downloaded/gwas/bip2024_multianc_no23andMe.gz",
+    "md5": "6615ee8a7c6443df124848d17ba1336e",
+    "bytes": 398949946
+  },
+  {
+    "trait": "ADHD",
+    "path": "data/downloaded/gwas/ADHD2022_iPSYCH_deCODE_PGC.meta.gz",
+    "md5": "ea57120c720e880e34f67f57483dcbb4",
+    "bytes": 200588408
+  },
+  {
+    "trait": "MDD",
+    "path": "data/downloaded/gwas/pgc-mdd2025_no23andMe_div_v3-49-46-01.tsv.gz",
+    "md5": "919829e44688fe7b0d745199a7893746",
+    "bytes": 195963903
+  },
+  {
+    "trait": "SCZ",
+    "path": "data/downloaded/gwas/PGC3_SCZ_wave3.primary.autosome.public.v3.vcf.tsv.gz",
+    "md5": "e186621c9c290605ad7e19968bfc3dfc",
+    "bytes": 236122083
+  }
+]

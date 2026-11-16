@@ -1,0 +1,15 @@
+basic.OCD_full_wo23andMe_190522.num.xls
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+OCD2024/PGC source dataset: https://figshare.com/articles/dataset/ocd2024/28707155
+Related publication: Strom et al., Nature Genetics (2025), doi:10.1038/s41588-025-02189-z. The exact file download URL/file ID is not recorded locally; the association with the dataset is supported by the retained publisher README.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Legacy Excel-format cohort/sample metadata accompanying the OCD-3 GWAS excluding 23andMe. The publisher OCD README explicitly identifies this filename as details of individual included studies/cohorts. It is not the full SNP association table and is not used as GWAS input by this project.
+
+Local identity checksum
+SHA-256: bd1dc9ab917ad6c2572de24b1f086ac6f28c4dc6f78a4b3bbd88f7d8733cf40c
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

@@ -1,0 +1,12 @@
+ST6 genes ranked together by human Agarwal posterior mean s_het, highest first with average ties. All 87 Dog and 48 Human genes are retained; COL6A5 lacks an estimate. min_p_500kb is the minimum human OCD SNP p-value within ±500 kb of the TSS. Both groups use human constraint estimates, before the dog-set TOGA restriction.
+
+Rows: 135. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+shet_rank: Pooled rank by posterior mean human s_het, highest first, average ranks for ties.
+st6_symbol: Gene symbol as recorded in supplementary table ST6.
+group: ST6 Dog or Human gene-set label; both use human constraint estimates.
+shet_posterior_mean: Mean of the human Agarwal s_het posterior, integrated on the linear s_het scale.
+log10_shet: Base-10 logarithm of the posterior mean s_het.
+min_p_500kb: Minimum SNP p-value in the ±500 kb TSS window.
+shet_status: Whether an Agarwal constraint estimate was available.

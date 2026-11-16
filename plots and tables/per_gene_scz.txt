@@ -1,0 +1,23 @@
+Per-gene human SCZ GWAS scores for all GENCODE autosomal protein-coding genes, including uncovered genes. Windows extend ±1 Mb and ±500 kb from the gene TSS, inclusive, using GRCh38 coordinates. Minimum SNP p-values are not adjusted for the number of SNPs per window. Dog labels identify the 83 TOGA one-to-one human orthologs (43 significant, 40 suggestive).
+
+Rows: 19,166. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+chrom: Autosomal chromosome.
+start: GENCODE gene start, 1-based GRCh38.
+end: GENCODE gene end, 1-based GRCh38.
+strand: GENCODE gene strand (+ or −).
+gene_id: GENCODE human Ensembl gene identifier.
+symbol: Human gene symbol.
+tss: Gene transcription start site, 1-based GRCh38; start on + strand, end on − strand.
+dog: True if the gene belongs to the 83-gene TOGA dog set.
+dog_significant: True if the gene belongs to the 43-gene significant dog subset.
+dog_suggestive: True if the gene belongs to the 40-gene suggestive dog subset.
+min_p: Minimum SNP p-value in the relevant window (±1 Mb if no window column).
+lead_snp: SNP attaining the minimum window p-value (±1 Mb if no window column).
+lead_pos_grch38: Lead SNP position, 1-based GRCh38.
+n_snps: Number of valid SNPs in the relevant window (±1 Mb if no window column).
+min_p_500kb: Minimum SNP p-value in the ±500 kb TSS window.
+lead_snp_500kb: SNP attaining the minimum ±500 kb window p-value.
+lead_pos_grch38_500kb: Lead SNP position for the ±500 kb window, 1-based GRCh38.
+n_snps_500kb: Number of valid SNPs in the ±500 kb TSS window.

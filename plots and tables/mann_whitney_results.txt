@@ -1,0 +1,20 @@
+One-sided Mann–Whitney enrichment tests of stronger minimum-window association in the selected genes, using genome-wide ranks with average ties. The 43 significant, 40 suggestive and 83 combined TOGA dog genes are each compared with non-dog covered genes. Holm correction uses only the six OCD tests (two windows × three dog sets); control traits report raw p-values. Tests use asymptotic p-values with tie and continuity corrections. Nearby genes can share SNPs; OCD comparisons involving the dog set are exploratory because dog-gene selection used human OCD results.
+
+Rows: 36. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+window: TSS window: 1mb is ±1 Mb; 500kb is ±500 kb, inclusive.
+dog_set: Significant (43), suggestive (40), or combined (83) TOGA dog genes.
+width_each_side_bp: TSS window extension on each side, in base pairs.
+n_dog: Number of covered genes in the selected dog subset.
+n_other: Number of background genes: non-dog for dog tests, all other genes for Human-set tests.
+median_dog_min_p: Median minimum-window p-value among the selected dog genes.
+median_other_min_p: Median minimum-window p-value among background genes.
+median_dog_rank: Median genome-wide association rank among selected dog genes.
+median_other_rank: Median genome-wide association rank among background genes.
+u_statistic: Mann–Whitney U for the selected set versus its background, using association strength.
+probability_dog_stronger: Probability a dog gene has stronger association than a non-dog gene, counting ties as one-half.
+one_sided_p: One-sided asymptotic Mann–Whitney p-value testing stronger association in the selected set.
+holm_adjusted_p: Holm-adjusted p-value; dog tests use six OCD tests only (control traits blank); Human-set tests use a separate 12-test family.
+holm_family_tests: Number of tests in the Holm multiple-testing family.

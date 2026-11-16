@@ -1,0 +1,16 @@
+gencode.v50.annotation.gtf.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_50/gencode.v50.annotation.gtf.gz
+Project reference: https://www.gencodegenes.org/human/
+Exact URL is recorded in the retained project README. Version: GENCODE v50, GRCh38.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+GENCODE human release 50 comprehensive CHR gene annotation, GRCh38, gzip-compressed GTF. Contains gene, transcript, exon and other annotated feature rows and attributes. The project selects autosomal protein-coding gene rows and uses gene-level TSS coordinates (gene start on + strand; gene end on − strand).
+
+Local identity checksum
+SHA-256: 83fba3e9b03f0b8c958f3595c6c350adc55f468abf8b0e47b6d5284cfe13a453
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.

@@ -1,0 +1,332 @@
+{
+  "MDD": {
+    "md5": "919829e44688fe7b0d745199a7893746",
+    "pilot_audit": {
+      "counts": {
+        "total": 10000,
+        "nonautosomal": 0,
+        "invalid_fields": 0,
+        "p_zero": 0,
+        "valid_autosomal": 10000,
+        "unmapped": 0,
+        "ambiguous": 0,
+        "mapped_nonautosomal_or_invalid": 0,
+        "cross_chromosome_mapped": 0,
+        "mapped": 10000
+      },
+      "samples": [
+        {
+          "chrom": "1",
+          "grch37": 846078,
+          "grch38_chrom": "1",
+          "grch38": 910698,
+          "snp": "rs28612348"
+        },
+        {
+          "chrom": "1",
+          "grch37": 846338,
+          "grch38_chrom": "1",
+          "grch38": 910958,
+          "snp": "rs4970334"
+        },
+        {
+          "chrom": "1",
+          "grch37": 846808,
+          "grch38_chrom": "1",
+          "grch38": 911428,
+          "snp": "rs4475691"
+        },
+        {
+          "chrom": "1",
+          "grch37": 846864,
+          "grch38_chrom": "1",
+          "grch38": 911484,
+          "snp": "rs950122"
+        },
+        {
+          "chrom": "1",
+          "grch37": 847228,
+          "grch38_chrom": "1",
+          "grch38": 911848,
+          "snp": "rs3905286"
+        },
+        {
+          "chrom": "1",
+          "grch37": 847491,
+          "grch38_chrom": "1",
+          "grch38": 912111,
+          "snp": "rs28407778"
+        },
+        {
+          "chrom": "1",
+          "grch37": 848445,
+          "grch38_chrom": "1",
+          "grch38": 913065,
+          "snp": "rs4626817"
+        },
+        {
+          "chrom": "1",
+          "grch37": 848456,
+          "grch38_chrom": "1",
+          "grch38": 913076,
+          "snp": "rs11507767"
+        },
+        {
+          "chrom": "1",
+          "grch37": 848738,
+          "grch38_chrom": "1",
+          "grch38": 913358,
+          "snp": "rs3829741"
+        },
+        {
+          "chrom": "1",
+          "grch37": 850062,
+          "grch38_chrom": "1",
+          "grch38": 914682,
+          "snp": "rs28723578"
+        },
+        {
+          "chrom": "1",
+          "grch37": 850123,
+          "grch38_chrom": "1",
+          "grch38": 914743,
+          "snp": "rs28622257"
+        },
+        {
+          "chrom": "1",
+          "grch37": 851190,
+          "grch38_chrom": "1",
+          "grch38": 915810,
+          "snp": "rs28609852"
+        },
+        {
+          "chrom": "1",
+          "grch37": 851204,
+          "grch38_chrom": "1",
+          "grch38": 915824,
+          "snp": "rs28552953"
+        },
+        {
+          "chrom": "1",
+          "grch37": 852664,
+          "grch38_chrom": "1",
+          "grch38": 917284,
+          "snp": "rs28605311"
+        },
+        {
+          "chrom": "1",
+          "grch37": 852758,
+          "grch38_chrom": "1",
+          "grch38": 917378,
+          "snp": "rs4970462"
+        },
+        {
+          "chrom": "1",
+          "grch37": 853239,
+          "grch38_chrom": "1",
+          "grch38": 917859,
+          "snp": "rs4970380"
+        },
+        {
+          "chrom": "1",
+          "grch37": 854250,
+          "grch38_chrom": "1",
+          "grch38": 918870,
+          "snp": "rs7537756"
+        },
+        {
+          "chrom": "1",
+          "grch37": 856476,
+          "grch38_chrom": "1",
+          "grch38": 921096,
+          "snp": "rs4040605"
+        },
+        {
+          "chrom": "1",
+          "grch37": 858040,
+          "grch38_chrom": "1",
+          "grch38": 922660,
+          "snp": "rs4970460"
+        },
+        {
+          "chrom": "1",
+          "grch37": 858051,
+          "grch38_chrom": "1",
+          "grch38": 922671,
+          "snp": "rs4970459"
+        }
+      ]
+    },
+    "seconds": 0.07843549999961397,
+    "pilot_genes_covered": 87
+  },
+  "SCZ": {
+    "md5": "e186621c9c290605ad7e19968bfc3dfc",
+    "pilot_audit": {
+      "counts": {
+        "total": 10000,
+        "nonautosomal": 0,
+        "invalid_fields": 0,
+        "p_zero": 0,
+        "valid_autosomal": 10000,
+        "unmapped": 0,
+        "ambiguous": 0,
+        "mapped_nonautosomal_or_invalid": 0,
+        "cross_chromosome_mapped": 0,
+        "mapped": 10000
+      },
+      "samples": [
+        {
+          "chrom": "8",
+          "grch37": 100516008,
+          "grch38_chrom": "8",
+          "grch38": 99503780,
+          "snp": "rs117278216"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101592213,
+          "grch38_chrom": "8",
+          "grch38": 100579985,
+          "snp": "rs62513865"
+        },
+        {
+          "chrom": "8",
+          "grch37": 106973048,
+          "grch38_chrom": "8",
+          "grch38": 105960820,
+          "snp": "rs79643588"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108690829,
+          "grch38_chrom": "8",
+          "grch38": 107678601,
+          "snp": "rs17396518"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108681675,
+          "grch38_chrom": "8",
+          "grch38": 107669447,
+          "snp": "rs983166"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105178584,
+          "grch38_chrom": "8",
+          "grch38": 104166356,
+          "snp": "rs12546060"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103044620,
+          "grch38_chrom": "8",
+          "grch38": 102032392,
+          "snp": "rs28842593"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103183288,
+          "grch38_chrom": "8",
+          "grch38": 102171060,
+          "snp": "rs76472819"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105213314,
+          "grch38_chrom": "8",
+          "grch38": 104201086,
+          "snp": "rs7841196"
+        },
+        {
+          "chrom": "8",
+          "grch37": 100644313,
+          "grch38_chrom": "8",
+          "grch38": 99632085,
+          "snp": "rs16897514"
+        },
+        {
+          "chrom": "8",
+          "grch37": 104152280,
+          "grch38_chrom": "8",
+          "grch38": 103140052,
+          "snp": "rs7014597"
+        },
+        {
+          "chrom": "8",
+          "grch37": 104284616,
+          "grch38_chrom": "8",
+          "grch38": 103272388,
+          "snp": "rs73283939"
+        },
+        {
+          "chrom": "8",
+          "grch37": 100479917,
+          "grch38_chrom": "8",
+          "grch38": 99467689,
+          "snp": "rs3134156"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101628449,
+          "grch38_chrom": "8",
+          "grch38": 100616221,
+          "snp": "rs7017809"
+        },
+        {
+          "chrom": "8",
+          "grch37": 102864487,
+          "grch38_chrom": "8",
+          "grch38": 101852259,
+          "snp": "rs78276404"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101176231,
+          "grch38_chrom": "8",
+          "grch38": 100164003,
+          "snp": "rs768450"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103144592,
+          "grch38_chrom": "8",
+          "grch38": 102132364,
+          "snp": "rs6980591"
+        },
+        {
+          "chrom": "8",
+          "grch37": 100850112,
+          "grch38_chrom": "8",
+          "grch38": 99837884,
+          "snp": "rs75750707"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108166508,
+          "grch38_chrom": "8",
+          "grch38": 107154280,
+          "snp": "rs72670434"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105201080,
+          "grch38_chrom": "8",
+          "grch38": 104188852,
+          "snp": "rs10955343"
+        }
+      ]
+    },
+    "seconds": 0.06412245800311211,
+    "pilot_genes_covered": 55
+  },
+  "environment": {
+    "python": "3.12.12 | packaged by conda-forge | (main, Oct 22 2025, 23:34:53) [Clang 19.1.7 ]",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "seed": 20261013
+  }
+}

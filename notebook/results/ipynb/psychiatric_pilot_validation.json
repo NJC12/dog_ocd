@@ -1,0 +1,333 @@
+{
+  "BIP": {
+    "md5": "6615ee8a7c6443df124848d17ba1336e",
+    "pilot_audit": {
+      "counts": {
+        "total": 10000,
+        "nonautosomal": 0,
+        "invalid_fields": 0,
+        "p_zero": 0,
+        "valid_autosomal": 10000,
+        "unmapped": 5,
+        "ambiguous": 0,
+        "mapped_nonautosomal_or_invalid": 0,
+        "cross_chromosome_mapped": 0,
+        "mapped": 9995
+      },
+      "samples": [
+        {
+          "chrom": "7",
+          "grch37": 92383888,
+          "grch38_chrom": "7",
+          "grch38": 92754574,
+          "snp": "rs10"
+        },
+        {
+          "chrom": "7",
+          "grch37": 40590569,
+          "grch38_chrom": "7",
+          "grch38": 40550970,
+          "snp": "rs1000013"
+        },
+        {
+          "chrom": "7",
+          "grch37": 132097016,
+          "grch38_chrom": "7",
+          "grch38": 132412257,
+          "snp": "rs1000058"
+        },
+        {
+          "chrom": "7",
+          "grch37": 132097005,
+          "grch38_chrom": "7",
+          "grch38": 132412246,
+          "snp": "rs1000059"
+        },
+        {
+          "chrom": "7",
+          "grch37": 157644121,
+          "grch38_chrom": "7",
+          "grch38": 157851429,
+          "snp": "rs1000136"
+        },
+        {
+          "chrom": "7",
+          "grch37": 157644152,
+          "grch38_chrom": "7",
+          "grch38": 157851460,
+          "snp": "rs1000137"
+        },
+        {
+          "chrom": "7",
+          "grch37": 131323797,
+          "grch38_chrom": "7",
+          "grch38": 131639038,
+          "snp": "rs1000202"
+        },
+        {
+          "chrom": "7",
+          "grch37": 123335078,
+          "grch38_chrom": "7",
+          "grch38": 123695024,
+          "snp": "rs1000204"
+        },
+        {
+          "chrom": "7",
+          "grch37": 22072864,
+          "grch38_chrom": "7",
+          "grch38": 22033246,
+          "snp": "rs1000240"
+        },
+        {
+          "chrom": "7",
+          "grch37": 22072933,
+          "grch38_chrom": "7",
+          "grch38": 22033315,
+          "snp": "rs1000241"
+        },
+        {
+          "chrom": "7",
+          "grch37": 89705492,
+          "grch38_chrom": "7",
+          "grch38": 90076178,
+          "snp": "rs10002499"
+        },
+        {
+          "chrom": "7",
+          "grch37": 132301953,
+          "grch38_chrom": "7",
+          "grch38": 132617194,
+          "snp": "rs1000293"
+        },
+        {
+          "chrom": "7",
+          "grch37": 27609288,
+          "grch38_chrom": "7",
+          "grch38": 27569669,
+          "snp": "rs1000317"
+        },
+        {
+          "chrom": "7",
+          "grch37": 135543143,
+          "grch38_chrom": "7",
+          "grch38": 135858395,
+          "snp": "rs1000433"
+        },
+        {
+          "chrom": "7",
+          "grch37": 65777909,
+          "grch38_chrom": "7",
+          "grch38": 66312922,
+          "snp": "rs1000464"
+        },
+        {
+          "chrom": "7",
+          "grch37": 30937178,
+          "grch38_chrom": "7",
+          "grch38": 30897563,
+          "snp": "rs1000597"
+        },
+        {
+          "chrom": "7",
+          "grch37": 82690689,
+          "grch38_chrom": "7",
+          "grch38": 83061373,
+          "snp": "rs1000651"
+        },
+        {
+          "chrom": "7",
+          "grch37": 129015511,
+          "grch38_chrom": "7",
+          "grch38": 129375670,
+          "snp": "rs1000676"
+        },
+        {
+          "chrom": "7",
+          "grch37": 94222724,
+          "grch38_chrom": "7",
+          "grch38": 94593412,
+          "snp": "rs1000714"
+        },
+        {
+          "chrom": "7",
+          "grch37": 77762980,
+          "grch38_chrom": "7",
+          "grch38": 78133663,
+          "snp": "rs1000773"
+        }
+      ]
+    },
+    "seconds": 0.8445962920013699,
+    "pilot_genes_covered": 9166
+  },
+  "ADHD": {
+    "md5": "ea57120c720e880e34f67f57483dcbb4",
+    "pilot_audit": {
+      "counts": {
+        "total": 10000,
+        "nonautosomal": 0,
+        "invalid_fields": 0,
+        "p_zero": 0,
+        "valid_autosomal": 10000,
+        "unmapped": 0,
+        "ambiguous": 0,
+        "mapped_nonautosomal_or_invalid": 0,
+        "cross_chromosome_mapped": 0,
+        "mapped": 10000
+      },
+      "samples": [
+        {
+          "chrom": "8",
+          "grch37": 101592213,
+          "grch38_chrom": "8",
+          "grch38": 100579985,
+          "snp": "rs62513865"
+        },
+        {
+          "chrom": "8",
+          "grch37": 106973048,
+          "grch38_chrom": "8",
+          "grch38": 105960820,
+          "snp": "rs79643588"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108690829,
+          "grch38_chrom": "8",
+          "grch38": 107678601,
+          "snp": "rs17396518"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108681675,
+          "grch38_chrom": "8",
+          "grch38": 107669447,
+          "snp": "rs983166"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103044620,
+          "grch38_chrom": "8",
+          "grch38": 102032392,
+          "snp": "rs28842593"
+        },
+        {
+          "chrom": "8",
+          "grch37": 104152280,
+          "grch38_chrom": "8",
+          "grch38": 103140052,
+          "snp": "rs7014597"
+        },
+        {
+          "chrom": "8",
+          "grch37": 100479917,
+          "grch38_chrom": "8",
+          "grch38": 99467689,
+          "snp": "rs3134156"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103144592,
+          "grch38_chrom": "8",
+          "grch38": 102132364,
+          "snp": "rs6980591"
+        },
+        {
+          "chrom": "8",
+          "grch37": 108166508,
+          "grch38_chrom": "8",
+          "grch38": 107154280,
+          "snp": "rs72670434"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105201080,
+          "grch38_chrom": "8",
+          "grch38": 104188852,
+          "snp": "rs10955343"
+        },
+        {
+          "chrom": "8",
+          "grch37": 109964318,
+          "grch38_chrom": "8",
+          "grch38": 108952089,
+          "snp": "rs74749112"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101012421,
+          "grch38_chrom": "8",
+          "grch38": 100000193,
+          "snp": "rs4734443"
+        },
+        {
+          "chrom": "8",
+          "grch37": 103650415,
+          "grch38_chrom": "8",
+          "grch38": 102638187,
+          "snp": "rs2436965"
+        },
+        {
+          "chrom": "8",
+          "grch37": 109224500,
+          "grch38_chrom": "8",
+          "grch38": 108212271,
+          "snp": "rs427145"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101644243,
+          "grch38_chrom": "8",
+          "grch38": 100632015,
+          "snp": "rs7838119"
+        },
+        {
+          "chrom": "8",
+          "grch37": 107978035,
+          "grch38_chrom": "8",
+          "grch38": 106965807,
+          "snp": "rs4448250"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105208527,
+          "grch38_chrom": "8",
+          "grch38": 104196299,
+          "snp": "rs2441902"
+        },
+        {
+          "chrom": "8",
+          "grch37": 106490696,
+          "grch38_chrom": "8",
+          "grch38": 105478468,
+          "snp": "rs34397009"
+        },
+        {
+          "chrom": "8",
+          "grch37": 101360616,
+          "grch38_chrom": "8",
+          "grch38": 100348388,
+          "snp": "rs11986967"
+        },
+        {
+          "chrom": "8",
+          "grch37": 105707805,
+          "grch38_chrom": "8",
+          "grch38": 104695577,
+          "snp": "rs118006969"
+        }
+      ]
+    },
+    "seconds": 0.3614954999939073,
+    "pilot_genes_covered": 55
+  },
+  "environment": {
+    "python": "3.12.12 | packaged by conda-forge | (main, Oct 22 2025, 23:34:53) [Clang 19.1.7 ]",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.9",
+    "nbformat": "5.11.1"
+  }
+}

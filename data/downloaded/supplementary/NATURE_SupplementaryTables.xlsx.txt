@@ -1,0 +1,27 @@
+NATURE_SupplementaryTables.xlsx
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Supplied with this project. The exact original download URL, manuscript version and acquisition date are not recorded. Retained methods associate the workbook with a dog–human network-colocalization study and link the associated study record https://doi.org/10.17044/scilifelab.33339309 (via https://data.europa.eu/data/datasets/https-doi-org-10-17044-scilifelab-33339309?locale=en). That association is context, not proof that this local workbook was downloaded from that record.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+Excel workbook of supplementary tables. Sheets: Index, ST1, ST2, ST3, ST4, ST5, ST6, ST7, ST8, ST9, ST10, ST11, ST12, ST13, ST14, ST15, ST16, ST17, ST18, ST19, ST20, ST21, ST22, ST23, ST24, ST25, ST26. ST5 lists dog GWAS regions and NetColoc genes; ST6 provides species labels, gene symbols, TOGA orthology labels and dog GWAS significance. ST6 includes 87 Dog and 48 Human genes, of which 83 Dog entries are labeled one-to-one after whitespace trimming. Used as original gene-set input.
+
+Local identity checksum
+SHA-256: b2163f561cc64407972bc9fe75caddf3f4b758772eabdc342fc475f49478f972
+Computed from the retained local file during repository organization; this is not a publisher-supplied verification checksum.
+
+Notes
+Preserve as an original supplied input. Do not substitute a workbook from the associated record without confirming the version and matching the original file.
+
+Public-source verification (2026-11-16)
+Source: Tengvall et al., Dog-human gene network colocalization links synaptic signalling and ubiquitination to compulsive disorders. bioRxiv version 1, 2026-10-12, DOI 10.64898/2026.10.12.758413.
+Public supplementary material:
+https://www.biorxiv.org/content/10.64898/2026.10.12.758413v1.supplementary-material
+The owner downloaded the supplementary workbook as media-2(2).xlsx and the supplementary-methods PDF as media-1-3.pdf. The public workbook SHA-256 is 31f317764fbd39538ca9e07bd8543d3afa2744205cca9667a6d9a41447d5f707.
+Compared all nonempty cell contents, including formula text, across the index and all 26 table sheets. ST5 and ST6, used by this project, match exactly. Twelve cells elsewhere differ: seven table-heading edits, four equivalent constant numeric formulas (scientific versus decimal notation), and one floating-point representation difference. Other cell contents match. File checksums differ; these are not byte-identical workbooks. The original project workbook is preserved unchanged.
+Detailed comparison: data/generated/supplementary_public_comparison.json.
+The accompanying PDF contains supplementary study methods and was inspected as context; it is not an analysis input.
+The bioRxiv API records a CC BY-NC-ND 4.0 license for the preprint. This repository does not relicense supplementary material; retain creator attribution and consult the source license for reuse.

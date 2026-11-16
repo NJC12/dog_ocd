@@ -1,0 +1,13 @@
+Displayed dog-set Mann–Whitney table for all six traits at the specified TSS window. Each significant (43), suggestive (40), or combined (83) TOGA set is compared with non-dog covered genes. The alternative is stronger association in dog genes; P(dog stronger) counts ties as one-half. Holm correction applies only to six OCD tests (two windows × three dog sets); control-trait Holm fields are blank.
+
+Rows: 18. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+Trait: Human GWAS trait (OCD, CAD, BIP, ADHD, MDD or SCZ).
+Dog set: Dog set; see the table context above.
+Dog genes: Number of covered genes in the selected dog subset.
+Non-dog genes: Number of background genes: non-dog for dog tests, all other genes for Human-set tests.
+U: Mann–Whitney U for the selected set versus its background, using association strength.
+P(dog stronger): Probability a dog gene has stronger association than a non-dog gene, counting ties as one-half.
+One-sided p: One-sided asymptotic Mann–Whitney p-value testing stronger association in the selected set.
+Holm p: Holm-adjusted p-value; dog tests use six OCD tests only (control traits blank); Human-set tests use a separate 12-test family.

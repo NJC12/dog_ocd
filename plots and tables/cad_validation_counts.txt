@@ -1,0 +1,7 @@
+CAD full-file validation audit. Row labels identify processing categories; SNP rows gives counts of retained or rejected records.
+
+Rows: 4. Tab-separated UTF-8 text with one header row. Numeric values retain computational precision rather than notebook display rounding. Blank fields indicate missing or inapplicable values.
+
+Columns
+index: Row label retained from the source table, such as an audit category.
+SNP rows: Number of SNP records in the indicated audit category.

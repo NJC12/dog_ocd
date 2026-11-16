@@ -1,0 +1,27 @@
+{
+  "BIP": {
+    "raw_dog_windows_checked": 156,
+    "reverse_liftover_samples_checked": 20,
+    "genome_wide_ranks_and_six_mann_whitney_tests_verified": true,
+    "seconds": 15.8770955420041
+  },
+  "ADHD": {
+    "raw_dog_windows_checked": 156,
+    "reverse_liftover_samples_checked": 20,
+    "genome_wide_ranks_and_six_mann_whitney_tests_verified": true,
+    "seconds": 11.946230166999158
+  },
+  "MDD": {
+    "raw_dog_windows_checked": 156,
+    "reverse_liftover_samples_checked": 20,
+    "genome_wide_ranks_and_six_mann_whitney_tests_verified": true,
+    "seconds": 11.194323083997006
+  },
+  "SCZ": {
+    "raw_dog_windows_checked": 156,
+    "reverse_liftover_samples_checked": 20,
+    "genome_wide_ranks_and_six_mann_whitney_tests_verified": true,
+    "seconds": 14.404690167000808
+  },
+  "all_36_holm_adjustments_verified": true
+}

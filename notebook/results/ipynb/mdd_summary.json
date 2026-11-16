@@ -1,0 +1,211 @@
+{
+  "source": "https://figshare.com/articles/dataset/GWAS_summary_statistics_for_major_depression_PGC_MDD2025_/27061255?file=51487010",
+  "filename": "pgc-mdd2025_no23andMe_div_v3-49-46-01.tsv.gz",
+  "md5": "919829e44688fe7b0d745199a7893746",
+  "chain_md5": "9267c9fef79b54962da8efadd0ddf6b6",
+  "scores_md5": "024ba095f17545db31d195ccb10f6637",
+  "input_coordinates": "1-based GRCh37 (hg19)",
+  "coordinate_system": "1-based GRCh38",
+  "gwas": {
+    "counts": {
+      "total": 5918521,
+      "nonautosomal": 163673,
+      "invalid_fields": 0,
+      "p_zero": 0,
+      "valid_autosomal": 5754848,
+      "unmapped": 14,
+      "ambiguous": 0,
+      "mapped_nonautosomal_or_invalid": 0,
+      "cross_chromosome_mapped": 0,
+      "mapped": 5754834
+    },
+    "samples": [
+      {
+        "chrom": "1",
+        "grch37": 846078,
+        "grch38_chrom": "1",
+        "grch38": 910698,
+        "snp": "rs28612348"
+      },
+      {
+        "chrom": "1",
+        "grch37": 846338,
+        "grch38_chrom": "1",
+        "grch38": 910958,
+        "snp": "rs4970334"
+      },
+      {
+        "chrom": "1",
+        "grch37": 846808,
+        "grch38_chrom": "1",
+        "grch38": 911428,
+        "snp": "rs4475691"
+      },
+      {
+        "chrom": "1",
+        "grch37": 846864,
+        "grch38_chrom": "1",
+        "grch38": 911484,
+        "snp": "rs950122"
+      },
+      {
+        "chrom": "1",
+        "grch37": 847228,
+        "grch38_chrom": "1",
+        "grch38": 911848,
+        "snp": "rs3905286"
+      },
+      {
+        "chrom": "1",
+        "grch37": 847491,
+        "grch38_chrom": "1",
+        "grch38": 912111,
+        "snp": "rs28407778"
+      },
+      {
+        "chrom": "1",
+        "grch37": 848445,
+        "grch38_chrom": "1",
+        "grch38": 913065,
+        "snp": "rs4626817"
+      },
+      {
+        "chrom": "1",
+        "grch37": 848456,
+        "grch38_chrom": "1",
+        "grch38": 913076,
+        "snp": "rs11507767"
+      },
+      {
+        "chrom": "1",
+        "grch37": 848738,
+        "grch38_chrom": "1",
+        "grch38": 913358,
+        "snp": "rs3829741"
+      },
+      {
+        "chrom": "1",
+        "grch37": 850062,
+        "grch38_chrom": "1",
+        "grch38": 914682,
+        "snp": "rs28723578"
+      },
+      {
+        "chrom": "1",
+        "grch37": 850123,
+        "grch38_chrom": "1",
+        "grch38": 914743,
+        "snp": "rs28622257"
+      },
+      {
+        "chrom": "1",
+        "grch37": 851190,
+        "grch38_chrom": "1",
+        "grch38": 915810,
+        "snp": "rs28609852"
+      },
+      {
+        "chrom": "1",
+        "grch37": 851204,
+        "grch38_chrom": "1",
+        "grch38": 915824,
+        "snp": "rs28552953"
+      },
+      {
+        "chrom": "1",
+        "grch37": 852664,
+        "grch38_chrom": "1",
+        "grch38": 917284,
+        "snp": "rs28605311"
+      },
+      {
+        "chrom": "1",
+        "grch37": 852758,
+        "grch38_chrom": "1",
+        "grch38": 917378,
+        "snp": "rs4970462"
+      },
+      {
+        "chrom": "1",
+        "grch37": 853239,
+        "grch38_chrom": "1",
+        "grch38": 917859,
+        "snp": "rs4970380"
+      },
+      {
+        "chrom": "1",
+        "grch37": 854250,
+        "grch38_chrom": "1",
+        "grch38": 918870,
+        "snp": "rs7537756"
+      },
+      {
+        "chrom": "1",
+        "grch37": 856476,
+        "grch38_chrom": "1",
+        "grch38": 921096,
+        "snp": "rs4040605"
+      },
+      {
+        "chrom": "1",
+        "grch37": 858040,
+        "grch38_chrom": "1",
+        "grch38": 922660,
+        "snp": "rs4970460"
+      },
+      {
+        "chrom": "1",
+        "grch37": 858051,
+        "grch38_chrom": "1",
+        "grch38": 922671,
+        "snp": "rs4970459"
+      }
+    ]
+  },
+  "genes_total": 19166,
+  "dog_eligible": 78,
+  "windows": {
+    "1mb": {
+      "width_each_side_bp": 1000000,
+      "genes_covered": 19136,
+      "dog_covered": 78,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.49484785976586804,
+          "null_mean": 0.5037070242690924,
+          "empirical_one_sided_p": 0.4266573342665733,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.4617474411668672,
+          "null_mean": 0.5041332467177329,
+          "empirical_one_sided_p": 0.3053694630536946,
+          "permutations": 10000
+        }
+      }
+    },
+    "500kb": {
+      "width_each_side_bp": 500000,
+      "genes_covered": 19115,
+      "dog_covered": 78,
+      "tests": {
+        "all": {
+          "n": 78,
+          "observed_mean_rank": 0.4612213848490323,
+          "null_mean": 0.5034795219807732,
+          "empirical_one_sided_p": 0.19188081191880813,
+          "permutations": 10000
+        },
+        "significant": {
+          "n": 39,
+          "observed_mean_rank": 0.45100799966530775,
+          "null_mean": 0.5040856523276177,
+          "empirical_one_sided_p": 0.258974102589741,
+          "permutations": 10000
+        }
+      }
+    }
+  }
+}

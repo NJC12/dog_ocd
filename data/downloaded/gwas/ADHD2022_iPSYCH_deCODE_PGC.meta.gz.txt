@@ -1,0 +1,21 @@
+ADHD2022_iPSYCH_deCODE_PGC.meta.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ndownloader.figshare.com/files/40036684
+Dataset record: https://figshare.com/articles/dataset/adhd2022/22564390
+Citation/version: Demontis et al., Nature Genetics (2023), doi:10.1038/s41588-022-01285-8. Figshare snapshot doi:10.6084/m9.figshare.22564390.v1 (published 2023-04-05).
+Evidence retained in the project README, GWAS manifest and study source metadata.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+January 2022 ADHD GWAS meta-analysis of iPSYCH, deCODE and PGC data. Gzip-compressed table with CHR, SNP, BP, A1, A2, frequencies, INFO, OR, SE, P, Direction, Nca and Nco. The source PDF specifies BP positions on hg19/GRCh37. The publisher README uses a different display filename (ADHD_meta_Jan2022_iPSYCH1_iPSYCH2_deCODE_PGC.meta.gz), but its MD5 matches this file.
+
+Checksum
+MD5: ea57120c720e880e34f67f57483dcbb4
+Bytes: 200588408
+Expected checksum and local verification were recorded in the project manifest before reorganization.
+
+Notes
+The analysis consumes SNP coordinates and p-values, validates source rows, and lifts GRCh37 traits to GRCh38. The original downloaded file is retained unchanged. CAD is already harmonised to GRCh38.

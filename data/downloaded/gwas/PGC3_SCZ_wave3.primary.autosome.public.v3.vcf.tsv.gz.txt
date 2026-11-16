@@ -1,0 +1,21 @@
+PGC3_SCZ_wave3.primary.autosome.public.v3.vcf.tsv.gz
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+Download URL: https://ndownloader.figshare.com/files/34517861
+Dataset record: https://figshare.com/articles/dataset/scz2022/19426775
+Citation/version: Trubetskoy et al., Nature (2022), doi:10.1038/s41586-022-04434-5. Figshare snapshot doi:10.6084/m9.figshare.19426775.v7 (published 2025-03-06).
+Evidence retained in the project README, GWAS manifest and study source metadata.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Contents
+PGC3 schizophrenia Wave 3 primary multi-ancestry autosomal public GWAS summary statistics, version 3. Gzip-compressed PGCsumstatsVCFv1.0-style TSV with ## metadata preamble. Source header gives fileDate 20220131 and genomeReference GRCh37. Relevant columns are CHROM, POS, ID and PVAL. Sample-count fields are variant/cohort dependent; source metadata includes 71,554 cases, 97,863 controls and 3,068 trios. The ## preamble is also retained as a generated metadata extract.
+
+Checksum
+MD5: e186621c9c290605ad7e19968bfc3dfc
+Bytes: 236122083
+Expected checksum and local verification were recorded in the project manifest before reorganization.
+
+Notes
+The analysis consumes SNP coordinates and p-values, validates source rows, and lifts GRCh37 traits to GRCh38. The original downloaded file is retained unchanged. CAD is already harmonised to GRCh38.

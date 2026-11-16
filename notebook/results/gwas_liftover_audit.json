@@ -1,0 +1,153 @@
+{
+  "counts": {
+    "total": 6791632,
+    "invalid_fields": 0,
+    "unmapped": 2794,
+    "ambiguous": 0,
+    "cross_chromosome_mapped": 6,
+    "mapped_nonautosomal_or_invalid": 771,
+    "mapped": 6788067
+  },
+  "samples": [
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67176846,
+      "grch38": 66711163,
+      "snp": "rs609219"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 68677760,
+      "grch38": 68212077,
+      "snp": "rs12034030"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62414752,
+      "grch38": 61949080,
+      "snp": "rs2498958"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 65988321,
+      "grch38": 65522638,
+      "snp": "rs12073622"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 68703977,
+      "grch38": 68238294,
+      "snp": "rs2820476"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 63361124,
+      "grch38": 62895453,
+      "snp": "rs2803239"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69228887,
+      "grch38": 68763204,
+      "snp": "rs114605216"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66579560,
+      "grch38": 66113877,
+      "snp": "rs633894"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69205799,
+      "grch38": 68740116,
+      "snp": "rs142566049"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62688422,
+      "grch38": 62222750,
+      "snp": "rs72679787"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 65989069,
+      "grch38": 65523386,
+      "snp": "rs12079616"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66660527,
+      "grch38": 66194844,
+      "snp": "rs78832141"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67649700,
+      "grch38": 67184017,
+      "snp": "rs12095335"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 62061141,
+      "grch38": 61595469,
+      "snp": "rs4915760"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 69423415,
+      "grch38": 68957732,
+      "snp": "rs12087596"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 63119256,
+      "grch38": 62653585,
+      "snp": "rs12117388"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 61451316,
+      "grch38": 60985644,
+      "snp": "rs1283258"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 67631423,
+      "grch38": 67165740,
+      "snp": "rs11465753"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 64804558,
+      "grch38": 64338875,
+      "snp": "rs1496014"
+    },
+    {
+      "chrom": "1",
+      "grch38_chrom": "1",
+      "grch37": 66169142,
+      "grch38": 65703459,
+      "snp": "rs17127920"
+    }
+  ]
+}

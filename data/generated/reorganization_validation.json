@@ -1,0 +1,11 @@
+{
+  "moved_files_hash_verified": 129,
+  "external_inputs_with_provenance": 103,
+  "source_scripts_documented": 22,
+  "pdf_exports_with_explanations": 23,
+  "tsv_exports_with_explanations": 68,
+  "full_tsv_exports_match_csvs": 28,
+  "fixture_tests_passed": 20,
+  "all_default_notebook_cells_executed": true,
+  "toga_validation_passed": true
+}

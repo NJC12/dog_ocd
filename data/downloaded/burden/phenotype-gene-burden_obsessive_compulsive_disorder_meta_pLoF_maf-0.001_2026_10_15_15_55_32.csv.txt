@@ -1,0 +1,22 @@
+phenotype-gene-burden_obsessive_compulsive_disorder_meta_pLoF_maf-0.001_2026_10_15_15_55_32.csv
+
+Classification: externally supplied/downloaded input; not an analysis result.
+
+Provenance
+The project owner confirmed that this CSV was downloaded from the All by All browser, https://allbyall.researchallofus.org/, for phenotype obsessive_compulsive_disorder. The filename identifies ancestry meta, predicted loss-of-function (pLoF), and MAF < 0.001. To locate the results, search for obsessive_compulsive_disorder in the browser and select those settings in the gene-burden results. The exact release and original export URL are not retained. The filename contains the export timestamp 2026_10_15_15_55_32; this is not independently verified as the local acquisition date. Coordinate assembly and the exact source sample composition are not verified for this export.
+Acquisition date: not recorded in the retained project metadata. Source publication/version dates above are not local download dates.
+
+Download/publication restriction (checked 2026-11-16)
+The browser FAQ, under "How can I download results from the All by All browser?", explicitly states that downloads of publicly available browser results are not permitted. It distinguishes this from registered researchers downloading summary tables for publication through the Researcher Workbench. The existence of a browser CSV-export control does not resolve that restriction. Do not publish this browser-exported CSV or copies of its association tables pending an authorized publication route or clarification from All of Us.
+FAQ: https://allbyall.researchallofus.org/faq
+Official FAQ source, also verified against the deployed JavaScript:
+https://github.com/broadinstitute/all-by-all-aou-browser/blob/main/frontend/src/client/about/faq.md
+Researcher Workbench registration: https://www.researchallofus.org/register/
+Contact for clarification: support@researchallofus.org (not contacted).
+
+Contents
+Supplied gene-level association results for obsessive-compulsive-disorder meta-analysis, predicted loss-of-function (pLoF) variants with MAF < 0.001, as encoded in the filename. CSV columns: Gene ID, Gene, Chromosome, Position, P SKAT-O, P Burden, P SKAT, Burden direction, MAC cases, MAC controls. Retained audit: 17,718 unique Ensembl gene IDs and 281 missing gene symbols. The legacy burden analysis joins by Ensembl ID and ranks P SKAT-O. These are gene-level tests, not SNP-window scores.
+
+Checksum
+SHA-256: 5110061b2a0b1fe77816789fb40642ff55c0ead50d0265e4dfb178c7049438fc
+This input checksum is recorded in the retained burden audit.json.

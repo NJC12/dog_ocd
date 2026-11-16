@@ -1,0 +1,32 @@
+{
+  "orthology_source": "Original ST6 TOGA 1:1 labels",
+  "dog_genes": 83,
+  "significant": 43,
+  "suggestive": 40,
+  "restored_genes": [
+    "EMC2",
+    "PLXNA2",
+    "PPA2",
+    "PROSER3",
+    "SH3GL3"
+  ],
+  "executed_code_cells": 55,
+  "all_cells_error_free": true,
+  "all_six_trait_scores_match_original_genome_wide_inputs": true,
+  "mann_whitney_tests_independently_checked": 36,
+  "circular_shift_tests": 24,
+  "shifts_per_test": 10000,
+  "human_mann_whitney_and_cdf_data_unchanged": true,
+  "environment": {
+    "python": "3.12.12",
+    "platform": "macOS-26.5.2-arm64-arm-64bit",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1"
+  },
+  "sha256": {
+    "NATURE_SupplementaryTables.xlsx": "b2163f561cc64407972bc9fe75caddf3f4b758772eabdc342fc475f49478f972",
+    "dog_ocd_analysis.ipynb": "c5b46e3103dc8f6bed5250ca0419a2b36ac17852b0ad22e9c54bb754baa38c79",
+    "src/toga_gene_set.py": "8060cad56138f5cb1e833b335d858c04cf59d0eada034c273656f9e3ab6a4cc4"
+  }
+}
