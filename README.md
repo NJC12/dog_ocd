@@ -20,7 +20,7 @@ python3 -m venv .venv
 The runner tests the code, executes all default cells, and saves the notebook.
 Default execution reuses established gene-window scores and verified permutation
 caches. PDF plots and TSV tables, each with a matching TXT explanation, are
-exported to `plots and tables/`. Scientific tables and other analysis outputs
+exported to `plots_and_tables/`. Scientific tables and other analysis outputs
 remain under `notebook/results/`.
 
 ## Project layout
@@ -30,7 +30,7 @@ remain under `notebook/results/`.
 | `data/downloaded/` | Original external inputs, source metadata and API responses; each file has a provenance/contents TXT companion. |
 | `data/generated/` | Lifted OCD SNP caches, extracted metadata, checksum registry and file-move manifest. |
 | `notebook/results/` | Generated analysis results, established scoring inputs and historical comparisons. |
-| `plots and tables/` | Current notebook PDF/TSV exports and matching explanations. |
+| `plots_and_tables/` | Current notebook PDF/TSV exports and matching explanations. |
 | `src/` | Analysis scripts, reusable modules, notebook runner and validation tools. |
 | `tests/` | Focused scientific fixture tests. |
 | `config/` | Project-local environment requirements. |

@@ -20,8 +20,8 @@ and 39 suggestive) and can produce different gene-set results.
 | [toga_gene_set.py](./toga_gene_set.py) | Selects ST6 TOGA one-to-one dog genes, maps FAM155A to NALF1, assigns current membership without changing window scores, performs dog circular shifts, and applies Holm correction only to the six OCD dog-set tests. | **Direct import.** This defines the current 83-gene dog set and its multiple-testing policy. |
 | [human_gene_enrichment.py](./human_gene_enrichment.py) | Maps the 48 ST6 Human genes, tests them against all other covered genes, applies a separate 12-test Holm family, and performs their circular-shift tests. | **Direct import.** Used in the Human-set analysis. |
 | [compare_shet.py](./compare_shet.py) | Integrates Agarwal human s_het posteriors, ranks the complete ST6 groups, runs a two-sided Mann–Whitney comparison, and creates the constraint/OCD scatter plot, pooled regression and marginal densities. Writes results under `notebook/results/shet/`. | **Direct import and execution of `main()`.** Section 5 runs this analysis. The available estimates cover 86 Dog and 48 Human genes; COL6A5 is missing. |
-| [notebook_exports.py](./notebook_exports.py) | Exports raw DataFrame/Series/Styler values as TSVs and writes table explanations, including column descriptions. | **Direct import.** Supports displayed tables and full analysis tables in `plots and tables/`. |
-| [plot_explanations.py](./plot_explanations.py) | Writes figure-specific descriptions of gene sets, panels, axes, reference lines and interpretation alongside PDF figures. | **Direct import.** Each notebook PDF in `plots and tables/` receives a matching TXT file. |
+| [notebook_exports.py](./notebook_exports.py) | Exports raw DataFrame/Series/Styler values as TSVs and writes table explanations, including column descriptions. | **Direct import.** Supports displayed tables and full analysis tables in `plots_and_tables/`. |
+| [plot_explanations.py](./plot_explanations.py) | Writes figure-specific descriptions of gene sets, panels, axes, reference lines and interpretation alongside PDF figures. | **Direct import.** Each notebook PDF in `plots_and_tables/` receives a matching TXT file. |
 
 The circular-shift modules use chromosome/SNP-count-stratified percentile ranks
 for their test statistic. These differ from the genome-wide gene ranks shown in
@@ -68,7 +68,7 @@ the CDFs and Mann–Whitney tables.
    the root notebook. Default settings reuse established gene-window inputs and
    verified shift caches. Full notebook results go to
    `notebook/results/ipynb/toga/`; PDF/TSV delivery copies and explanations go to
-   `plots and tables/`. Section 5 also writes its constraint results to
+   `plots_and_tables/`. Section 5 also writes its constraint results to
    `notebook/results/shet/`.
 3. Run `.venv/bin/python src/validate_toga_notebook.py` after execution. Use
    `.venv/bin/python src/validate_psychiatric_results.py` when the independent

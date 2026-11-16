@@ -66,6 +66,6 @@ disposable Python caches. The archived Ensembl78 and Holm36 notebooks preserve
 different membership/correction policies. The burden analysis is absent from the
 main notebook but has unique results. None is proposed for deletion here.
 
-The PDF/TSV/TXT files in `plots and tables/` intentionally fulfill the requested
+The PDF/TSV/TXT files in `plots_and_tables/` intentionally fulfill the requested
 delivery exports. Full TSVs and displayed-table TSVs can overlap in content while
 serving different purposes; both are retained.

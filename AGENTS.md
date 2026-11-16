@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-Analysis scripts are in `src/` (see `src/README.md` for notebook inclusion) and fixture tests in `tests/`. External inputs are in `data/downloaded/`: GWAS files in `gwas/`, GENCODE in `annotation/`, and the supplementary workbook in `supplementary/`. Each external file has a provenance/contents `.txt` companion. Transformed SNP caches and locally extracted metadata are in `data/generated/`. `notebook/results/` contains generated scientific results and historical scoring inputs; current notebook results go to `notebook/results/ipynb/toga/`. `dog_ocd_analysis.ipynb` stays at the root and also exports PDF/TSV files with matching explanations to `plots and tables/`. Keep generated files out of source and downloaded-input directories. See `data/README.md` for shared external input dependencies.
+Analysis scripts are in `src/` (see `src/README.md` for notebook inclusion) and fixture tests in `tests/`. External inputs are in `data/downloaded/`: GWAS files in `gwas/`, GENCODE in `annotation/`, and the supplementary workbook in `supplementary/`. Each external file has a provenance/contents `.txt` companion. Transformed SNP caches and locally extracted metadata are in `data/generated/`. `notebook/results/` contains generated scientific results and historical scoring inputs; current notebook results go to `notebook/results/ipynb/toga/`. `dog_ocd_analysis.ipynb` stays at the root and also exports PDF/TSV files with matching explanations to `plots_and_tables/`. Keep generated files out of source and downloaded-input directories. See `data/README.md` for shared external input dependencies.
 
 ## Build, Test, and Development Commands
 
